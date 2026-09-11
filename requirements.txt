@@ -8,5 +8,6 @@ langchain-groq
 langchain-huggingface
 sentence-transformers
 faiss-cpu
+jq
 torch
 langchain-ollama
