@@ -1,5 +1,5 @@
 from langchain_huggingface import HuggingFaceEmbeddings
-
+from tqdm import tqdm
 
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
@@ -11,11 +11,14 @@ def get_embeddings():
 
     return embeddings
 
-
 def create_embeddings(rag_chunks, embeddings, batch_size=100):
     all_embeddings = []
 
-    for i in range(0, len(rag_chunks), batch_size):
+    for i in tqdm(
+        range(0, len(rag_chunks), batch_size),
+        desc="Creating embeddings",
+        unit="batch"
+    ):
         batch = rag_chunks[i:i + batch_size]
 
         texts = [
@@ -27,16 +30,10 @@ def create_embeddings(rag_chunks, embeddings, batch_size=100):
 
         all_embeddings.extend(batch_embeddings)
 
-        print(
-            f"Processed {min(i + batch_size, len(rag_chunks)):,}"
-            f"/{len(rag_chunks):,}"
-        )
-
     print(f"\nCreated {len(all_embeddings):,} embeddings")
     print(f"Embedding dimension: {len(all_embeddings[0])}")
 
     return all_embeddings
-
 
 if __name__ == "__main__":
     from loader import load_conversations

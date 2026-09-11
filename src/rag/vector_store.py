@@ -2,7 +2,7 @@ from langchain_community.vectorstores import FAISS
 
 from .loader import load_conversations
 from .chunker import create_rag_chunks
-from .embeddings import get_embeddings
+from .embeddings import get_embeddings, create_embeddings
 
 
 DATA_PATH = "data/processed/amazon_conversations_rag_based.jsonl"
@@ -16,9 +16,20 @@ def create_vector_store():
 
     embeddings = get_embeddings()
 
-    vector_store = FAISS.from_documents(
+    # Create embeddings with progress tracking
+    vectors = create_embeddings(
         rag_chunks,
-        embeddings
+        embeddings,
+        batch_size=100
+    )
+
+    # Create FAISS store from existing embeddings
+    vector_store = FAISS.from_embeddings(
+        text_embeddings=[
+            (document.page_content, vector)
+            for document, vector in zip(rag_chunks, vectors)
+        ],
+        embedding=embeddings
     )
 
     vector_store.save_local(VECTOR_STORE_PATH)
