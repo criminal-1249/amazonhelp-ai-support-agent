@@ -1,0 +1,205 @@
+# AmazonHelp Golden Evaluation Queries
+# 200 real customer messages sampled from the supplied dataset.
+# Format: GOLD_ESCALATION | CUSTOMER_QUERY
+# IMPORTANT: labels are proposed gold labels and should be human-reviewed before final submission.
+
+HUMAN | why is my order at my local courier for the last 6 days and still hasn’t been delivered to me?? Over 1 week late 😡
+AUTO_HANDLE | It's more than ONE MONTH for something that should have taken 2 days. 'Apologies' won't work. Please do some real work & get it delivered.
+AUTO_HANDLE | to a neighbour by mistake, and that I needed to wait. I had to resort to being blunt before I finally got the answer I needed. (2)
+AUTO_HANDLE | A callback. I told them multiple times I couldn't take a call right now and they refused to help any other way.
+AUTO_HANDLE | アマゾンプライムビデオは吹き替え増やしてくれたのむ
+AUTO_HANDLE | absolument j'ai précommandé la One X (Scorpio) le 20/08 et la livraison est prévu le 9/11 alors qu'elle sort le 7... livraison prioritaire
+HUMAN | Yes and it's saying in my account that my Xbox is registered but still can't watch on my Xbox but can on my phone
+HUMAN | i would like to know the details of the calls made to me on my registered numbers regarding the delivery of my product.When fault is not on my part , if I want company have to compensate me for this blunder
+HUMAN | Not sure I’ll be renewing my Prime membership now.
+HUMAN | LMAO! Yet another Prime shipment due today didn't show up. This is absolutely comical. I can't believe how efficient has become at disappointing me, and yet has me pay for the pleasure.
+AUTO_HANDLE | I've already been put on hold several times , maybe try to be better
+AUTO_HANDLE | In response to your packing video, this packaging was for a 2ft washing line pole
+AUTO_HANDLE | Too much work pressure guys??? Your delivery services are getting from bad to worse.
+HUMAN | I don't want a form to fill out that logs a response no one reads. I want to prevent AMZL from touching my stuff. Possible, or no?
+AUTO_HANDLE | Surrounded by Sunday papers and then the delivery man calls... my day just got a whole lot better #bookaddict #morecookbooks
+AUTO_HANDLE | 家の中のどこででもAmazonの動画見放題なのでFire便利
+HUMAN | This time it's UPS. Of the last 8 orders I've made, 6 were late; of those, 2 were USPS, 4 were Amazon Logistics, and this one was UPS. Several of the orders were late before they ever got to the carrier.
+AUTO_HANDLE | ドキュメンタル観たすぎるから Amazon prime契約しよかな🖥✔️
+HUMAN | Yes, it was supposed to arrive yesterday and now it says it will not arrive until the 4th
+HUMAN | . Where customer support can't even answer a simple question, choosing to give all the information I'm NOT asking for.
+AUTO_HANDLE | How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it’s only a week away
+HUMAN | 1 of your drivers crashed into my friends car the other day. Caused damage and left her severely shaken. The driver did not even stop. She has tried several times to contact your customer service which has not been helpful at all. This is a criminal offence.
+HUMAN | order number was 204-1881702-4511551 . Urgently resolve and sort out the mess that is your customer service ASAP
+AUTO_HANDLE | what can I do about a prime order I ordered for today and now been told delivery is tomorrow?
+AUTO_HANDLE | order no - 404-8924729-6533111 I received the defective product but your replacement procedure is more frustrating and irritating
+AUTO_HANDLE | Amazon help! 2 of our items were taken off sale mistakenly by Amazon – they were switched into the grocery category. We have been approved to sell in Health&Wellness category. 1/4.
+HUMAN | i am so tired being on the phone with customer care!!!!y'all useless and not helpful at all
+AUTO_HANDLE | I’ve only spoke by email and I keep getting told it will be delivered within 24 hours twice now with still no parcel??
+HUMAN | And this is how packs + delivers products to its Prime members. Again, dis s not the first time! #Prime #NotSoPrime🤦
+AUTO_HANDLE | first time using , possibly the worst customer experience I've encountered. STAY AWAY - doesn't work. #wasteoftime
+HUMAN | Hi, is it possible to acquire a tax refund paper from Amazon for items purchased and intend to be shipped abroad?
+AUTO_HANDLE | . - Once again you've gifted me with your version of holiday cheer - a huge migraine after 2-1/2 hours on the phone trying to sort out 1 order. My reward? I'm paying more & my gift items are coming too late. Thanks, ! You don't care! 😡 #amazon
+HUMAN | Keeps telling me to sign up for prime service but when I try it says the setup can't be completed
+HUMAN | Tried donating food to Arizona Humane society but lost my packages. Thanks a lot
+AUTO_HANDLE | Haven't been able to get Amazon Music to work on the Echo Dot so far. It plays content only from Saavn. #India
+HUMAN | Is the Echo Show no longer supported?
+HUMAN | i have already contacted the customer care via call its not helping and saying to reorder the same product as fuck!!!! when i will get my order??? Order ID :- #408-0231829-4528313 its been 3days and still not Dispatched sort this out!!!
+AUTO_HANDLE | Just says that it shipped from the Amazon facility on Tuesday and nothing else 😥 any suggestions?
+HUMAN | my issue was solved. thanks guys
+AUTO_HANDLE | Already handled, just venting. It was a pretty big bummer.
+AUTO_HANDLE | morning! Is alexa messaging and calling only between alexa app users or can I call anyone?
+HUMAN | my orders are not getting dispatched on 5-6 days wtf is the issue? i have reordered 3 times now
+HUMAN | I purchased on 20 November but still I have not received. How can I receive? Item has bagged for wrong address by instead of my address.
+AUTO_HANDLE | Gracias Amazon, primero adelantan la fecha, después la señorita que no entiende castellano habla a la que le debemos dar la sorpresa hoy y le dice su regalo, y hoy el repartidor no prioriza el envío ¿Algo les falta más por no hacer bien?
+AUTO_HANDLE | Yeah this is crazy we’re less than a week away and still no Shipping Information on something that we Pre-ordered back in August
+HUMAN | your customer care is helpless. Being an AZ exclusive product, a bug is the last thing I expected. How will I get 2720 off now?
+AUTO_HANDLE | Thank you for trying. Have a great day.. signing off
+AUTO_HANDLE | 夕飯！ 焼きうどん！ 机がない┏( .-. ┏ ) ┓ﾄﾞﾝ Amazonのフル活用。 因みにソース味！
+HUMAN | That link is account & login issues - none apply here. Doesn't have choice about how to get back rewards or make right order you canceled.
+AUTO_HANDLE | まさかのリプライでのご説明、ありがとうございます。
+AUTO_HANDLE | , do you want the million pieces of glass as well or just the remains of this candle put back in the box?
+HUMAN | I would like to talk to a customer care representative
+AUTO_HANDLE | thanks durgesh, but keep the link.
+AUTO_HANDLE | こんな安いのにお急ぎ便頼んだりビデオ見放題できたりしちゃうんか……Amazonプライムこえー
+HUMAN | what I was advised is immaterial . I need the issue resolved urgently. There has been no communication apart from customs delay
+HUMAN | I prefer shopping on other portals/Comp rather than .They always blunder in delivery No customer care number at least no phone for kota Customer feels cheated Use any site for shopping but don't use You will repent afterwards
+AUTO_HANDLE | Ich kann mit solchen Überraschungen nicht umgehen 😭
+AUTO_HANDLE | the rep even told me he was helping multiple people at once and that's why it took so long.
+HUMAN | I wrote there , courier wala is returning items without coming to deliver. Msg that refused to take delivery. Filed return but no taker
+HUMAN | I lost my mobile bill copy , doesn't find any details on app , pls help
+AUTO_HANDLE | helloooo, I accidentally ‘requested cancellation’ on an order I didn’t want to cancel 😰😰
+HUMAN | Please arrange invoice with mention IMEI NO. related to order no:1__credit_card__.
+AUTO_HANDLE | waiting waiting waiting shit service by Amazon i ever had in my life
+AUTO_HANDLE | Amazon有能
+AUTO_HANDLE | ひぇ～～(笑)わざわざ、、ありがとうございました。
+HUMAN | hi, why do you keep taking £1 from my account? One of them been there since 22/11?
+AUTO_HANDLE | . mandate un sacco di mail inutili, perché non avvisate della scadenza dell'abbonamento Prime prima di prendere i soldi? 😤😠
+HUMAN | Yes but no help. They just want me to pay for express delivery.
+HUMAN | Their own customer service chat admitted they are a terrible delivery service. Crappy way to do your customers, thx .
+AUTO_HANDLE | WHAT IN THE WORLD?!
+AUTO_HANDLE | I was about to book it in afternoon and suddenly the list vanished. Hope you understood now. Fix the bug asap !! (2/2)
+AUTO_HANDLE | 昨日Amazonで、恐竜の本とサイエンス雑誌もいっぱい買ったから楽しみ😆🦖🦕💕
+HUMAN | my package was ‘accidentally’ opened.. 4 items missing worth £97. You need better delivery drivers!!
+HUMAN | i have been a loyal consumer from a long time and i will be. But my first Amazon pantry order has gone wrong. I have not got the product and the status is showing delivered. On complaint to costumer service i got an response that the investigation is going on
+AUTO_HANDLE | Amazon デジタルミュージック、僕の好きな80年代の曲が割と揃ってるなー。プライム会員だと結構な数聴ける。知らなかった。
+HUMAN | No new delivery date yet. It looks like it hasn't even shipped, just "we're encountering a delay in shipping the item below [...]"; the other part of the order did ship Amazon Logistics, and claims to be out for delivery.
+AUTO_HANDLE | Ahhh man! or played rugby with my new candle. It smells good though, it's just in a thousand bits!
+HUMAN | Pretty sure you guys are going to be getting a lot of these complaints so I'm going to try and get ahead of the pack. Not great customer service
+HUMAN | Hi There - I am experiencing an issue with several orders I made that are coming in one package - I have Prime and have not received my items, two days after the original scheduled delivery date. I have called twice about this issue to no avail. Could I get some help?
+AUTO_HANDLE | Will do! Thank you for your help!
+HUMAN | I've dealt with it and got a refund. But how you lot managed to send my item to GERMANY beggars belief!
+AUTO_HANDLE | lamentable hacer un pedido y que sin estar en casa correosexpress lo de por entregado... ahora que? Quien lo tiene? Envio 24h? Incompetencia absoluta!!!
+AUTO_HANDLE | Yeah said it would be delivered within 24 hours nothing arrived yesterday said wait another 24 hours and still nothing?
+AUTO_HANDLE | hi I️ got Amazon prime to try it out and my very first order is taking 5 days to arrive instead of 2. why is that? I want to keep my subscription but it’s not looking good to me so far ☹️
+AUTO_HANDLE | I contacted them and we finally got it sorted out. Thanks but I don’t think I’ll do amazon trade in again.
+HUMAN | Not content with dumping my book delivery down the side of the bin whilst it was raining last week, my delivery people have potentially stolen one of my parcels 😒
+HUMAN | . Putting children at risk. Amazon failing to dispatch critical child safety equipment then unable to engage with their own fulfilment centre. Protect children - avoid Amazon.
+AUTO_HANDLE | I order a Christmas gift for my parents and it doesn't come shipped in the Amazon box and instead it's own box, ruining the whole surprise >:(
+AUTO_HANDLE | I had to wait an extra week to finally get my terrarium to be sorely disappointed when I finally open the box.
+AUTO_HANDLE | Qualcuno può consigliarmi uno #Smartwatch economico? #Amazon
+HUMAN | Because care number can't connected by me
+HUMAN | delivery I paid for today,didn’t arrive.why not?i paid enough for it.where is it??I’m unhappy.refund the delivery charge
+AUTO_HANDLE | another bug now.. this is frustrating. I guess you don't want me to buy this.
+AUTO_HANDLE | Just Re-order the same product from a different portal there's 100 Rs difference but that's bearable for the smooth and timely delivery.May God save people of India from #Amazon
+AUTO_HANDLE | Okay, danke für die Info
+HUMAN | I DON'T HAVE A LOGON PROBLEM. ESCALATE NOW!!! I HAVE PROBLEMS WITH WHAT YOU DID TO MY ACCOUNT AND ORDER
+HUMAN | I have reached out via that link, at least 20 times now. I do not understand your confusion, I am clearly on Twitter tagging you because your customer care team are a disgrace.
+AUTO_HANDLE | Doesn’t work for vine orders. Also got pureology conditioning mask that was opened and leaking.
+AUTO_HANDLE | Thank you! I will be checking every hour, supposed to ship today so I’ll keep you posted!! 🙌🏼🙅🏻‍♂️
+HUMAN | your bugs are annoying. Now I am unable to buy :(
+AUTO_HANDLE | Feliz #Halloween2017
+HUMAN | Laptop was supposed to come tomorrow, got a notification this morning it was left in 'safe space' i did not authorise a 'safe space'. Who leaves a laptop in an open drive on a busy road???!!!. Rushed home, 2 hours later laptop is nowhere to be found???!!!
+HUMAN | I’m a Prime member. Ordered a book for same day delivery yesterday. It has not been delivered and the rep kept giving me different excuses
+AUTO_HANDLE | How packages china
+HUMAN | This is all I get. No tracking numbers. The business was not closed.
+HUMAN | It’s no YOU, it’s the post office. The post office will not deliver a second time during the day. It’s once and gone.
+AUTO_HANDLE | I tweeted you, posted the transcript of my conversation with your very unhelpful rep, emailed Jeff. What does it take?
+AUTO_HANDLE | ありがとうございます✨
+AUTO_HANDLE | I don't know how to see who it is please help
+AUTO_HANDLE | アマゾンの届くのの早いことよ。 昨日の今日よー
+AUTO_HANDLE | how do you trace a parcel which is presenting as "delivered" yet it hasn't been delivered to me.
+AUTO_HANDLE | Amazon, c'est devenu de la merde les livraisons depuis l'instauration de leur premium de merde.
+HUMAN | I haven’t had a chance yet as I’m at work. 3/4 times now this month that my Prime orders have been delayed. This one has been delayed twice and then “lost”!
+HUMAN | terrible back and forth and no one is solving my issue!!!!I am tired
+AUTO_HANDLE | That page doesn't have those items listed.
+AUTO_HANDLE | Just did all my Xmas shopping in less than two hours. Thanks
+AUTO_HANDLE | #AmazonPayQuiz what about results??
+AUTO_HANDLE | 30 mins ago, i just found out that has their very own music service thats free to those with prime membership. Hell Yeah!
+AUTO_HANDLE | Acabaram de chegar os livros da Black Friday 😍 todos comprados na no link do que nem fez uma lavagem cerebral para comprarmos Matéria Escura 😂
+HUMAN | I am not getting what you have done and how I will get my refund today in my bank account. I have 2 messages from your end both says different story. That means I will only need to wait for today?
+HUMAN | Sir My issue still not resolved, ORDER # 403-7500604-4057927 waiting since 13th Nov and now is 1st Dec.
+HUMAN | Already started the return. UPS gets it from my doorstep tomorrow. Order 111-5014070-4118645
+HUMAN | Yes, I reported it yesterday - a £200 SONOS speaker, another one is being sent out, but I thought you might like to know someone is stealing from you.
+HUMAN | I received just a call not any mail. after few days I also received a call from delivery boy but he didn't turn up yet.
+AUTO_HANDLE | Which generation echo dot is available in India? Is it a first generation or second generation? #EchoDot
+AUTO_HANDLE | it's happened twice in a week! What number can I use to contact?
+HUMAN | My order says arriving today, but there is not much update on tracking page and no sms, will order be free if i don't get it today
+HUMAN | Bought an Echo Show and it won’t recognize a single account in our household. WTF, guys?
+HUMAN | You cancel my order. Expect me to buy at a higher price. Your customer support can't read the tickets after explaining the problem several times: First telling me the account is reinstated then telling me prices change. Honor the order. #scam #baitandswitch
+HUMAN | Thank goodness for prime! I'm able to return everything that didn't fit well 🙌🏼
+HUMAN | can't process refund kindly assist
+HUMAN | I've just spent time on the phone to your customer service team in UK who have managed to do nothing but cost me money.
+HUMAN | They refused to help me without me giving my phone number and I can't use the phone right now.
+AUTO_HANDLE | When are you uploading Home Alone 1 and 2 movies?
+AUTO_HANDLE | This bullshit of “Delivery attempted” pissing me off. I’ve been here in my office all morning. There was no delivery attempted.
+AUTO_HANDLE | I want to buy Kindle Paperwhite at discount. Currently there is no discount.When is your next sale?
+HUMAN | 1 week on you have not dispatched urgent child safety equipment. U tell me you can't get an answer from ur own dispatch centre but if I cancel (after a week) and re-order and pay for overnight delivery I can have I tomorrow. Amazon holding child safety items to ransom.
+AUTO_HANDLE | Yeah idk the shipping company and it says “mike Ziemer” signed for it in the mail room at our building lol
+AUTO_HANDLE | Is it ? So for One Plus 5 exchange program, only 3 models of Motorola are available for exchange? Check system and reply
+HUMAN | and the Super mario kart 8 deluxe game is also available and pokken tournamentdx is not available and the games Zelda is very high price and also Super Mario Odyssey is high price, please re-organize prices and provide goods
+HUMAN | So the question is….. if we bought for two day shipping and don’t get it due to terrible governmental shipping logistics, whose reliable? Sounds like false advertising to me. Playing for something that’s not offered? #legal #scamazon #amazon
+AUTO_HANDLE | Your site must poll usps less frequently because you still say “by” end of the week. Manually running usps tracking on their site shows “out for delivery”
+HUMAN | , fraud and deceitful things happening ! No customercare, only sale
+HUMAN | I sent in a kindle for a trade in. It was in perfect condition. Now I’m told the screen is cracked and they won’t give me the full amount. That’s a lie. I’m not going to use Amazon Trade-In again.
+HUMAN | my account has been locked pending verification of my CC. I have sent the required fax 3 times. what more do you want?
+HUMAN | Eh, what . ? This was in stock, not even listed as "only N left" when I ordered. Why a sudden unspecified delay?
+AUTO_HANDLE | carrier is UPS.
+HUMAN | For the second time this week you have delivered what I ordered to the wrong address! It's hasn't been signed for me by at all
+HUMAN | "What is heartbreak?" when your package still hasn't arrived 3 days after it was supposed to 😪
+HUMAN | can i get a refund for my purchase of #cuphead via ? i got scammed and there's nothing i can do about it... smh...
+AUTO_HANDLE | hey thanks for the fast reply as always, is it the same link for Amazon.de aka products bought in Germany?
+AUTO_HANDLE | yes it was a third party seller
+HUMAN | Charged by can only watch on one device what is that shit about
+HUMAN | When your customer service agents promise you one thing but their supervisor says another, you lose a long time prime member!! Customer service agents who lie and supervisors who hang up on customers is poor service!!
+HUMAN | lots of issues setting up Echo Plus as hub for Philips Hue. Contact me for details. Needs sorting urgently.
+HUMAN | I still have not received a reply for this issue.
+HUMAN | The order was to be delivered today. Nobody turned up or contacted me. Now the order undeliverable as refused. Hapnd d third time.
+HUMAN | Wrong account. The order was shipped via US Post. They usually deliver in the afternoon. It’s only 10 am.
+AUTO_HANDLE | amazon echo届いた！ しばらく楽しみます！ 音質はそこそこでも楽しい！
+AUTO_HANDLE | I tried to log into .com but the fax number that was sent was a UK number
+HUMAN | - Worst delivery service and customer care service provided by any online portal #angrycustomer #disappointed #primecustomer
+AUTO_HANDLE | You’ve gotta be kidding! Spent over an hour ‘troubleshooting’ with one of your inexperienced staff. Got nowhere. Have an expert call me.
+HUMAN | Please go through my previous tweet what problem I facing with Mi service centre they want invoice with mention IMEI NO.
+AUTO_HANDLE | That page is useless - doesn’t allow me to state it hasn’t been delivered; only tells me it has! How can you sort this out?
+HUMAN | I mean my party is in 4 hours, if it’s not here I just need a refund. Don’t need a monkey costume any time but tonight lol
+AUTO_HANDLE | I don’t get what’s going on with and my packages. This is the 2nd/3rd time they say delivered to my apartment but are nowhere to be found. 😥
+HUMAN | #Amazon marketplace seller is refusing to accept the return of broken item, despite my statutory rights under consumer law. are doing nothing because it's over 90 days. Surely they have a responsibility to ensure the sellers they facilitate abide by UK Law?
+HUMAN | just talked #Amazon CC guy he said delivery team couldn't contact me hence order returned though NoOne called on registrd numbrs.I need to re-order #Amazon workin wickedly amazingly in India Surely i re-order from other sites & recommend pple to avoid #Amazon for online purchase
+HUMAN | The order that you cancelled was a gift that now will not make it. Stop focusing on the account. Start focusing on the customer
+AUTO_HANDLE | But when
+AUTO_HANDLE | can you dilverd home to home dilevary to this pin code 441801
+HUMAN | I have already and it has not been helpful. I have already spent 1+ hour on the phone on this issue and have essentially been told to call back tomorrow. I would like someone with authority to get in contact with me directly.
+AUTO_HANDLE | いつもお世話になってます！ おいしいですよー(*´罒`*) 因みにこのフライパンもAmazon☆( *｀ω´)
+AUTO_HANDLE | This happens every time
+AUTO_HANDLE | Hi ready for some help
+HUMAN | no problem. Keep me posted. I want to book Moto G5s Plus today
+AUTO_HANDLE | si les escribo por correo, respondan por correo! Como siempre!!! Acaban de matar la sorpresa de aniversario!!!!!😒😤👹
+AUTO_HANDLE | How would I know that u arrange that !
+AUTO_HANDLE | also, beim Addams Family-Film in Prime sind Bild und Ton nicht wirklich synchron. Wie kommt's?
+AUTO_HANDLE | I’m a Prime member and ordered something labeled Prime, sold by - but shipping speed is 3-5 days. A/B testing speed change?
+HUMAN | I’ve been using that app every day for six months and I’ve never had this problem until this week
+HUMAN | My carrier is Canada Post - I have checked on the package and it has been "Out for Delivery" for two days now. What I would like is the order to be completely re-shipped with same-day delivery so I could receive it later today (Saturday).
+HUMAN | Do whatever you want to do, I don't need the money now. I wanted the money on 28-Nov for my personal needs but you guys just ruined it. Thanks for your worst support. Also this is the last time you have heard from me on Amazon. I will never ever shop from this worst Amazon site
+HUMAN | The same update as Friday carrier unable to locate my address but I live on a normal road and I’ve never had issues with other companies?
+HUMAN | hi, yesterday I reported that one of the items I ordered hadn't been delivered, this morning I've found the box that was delivered had been opened and resealed by someone - suspect one of your drivers has been stealing.
+AUTO_HANDLE | I have been promised twice now it will be delivered with 24 hours Sunday afternoon and no sign of my parcel???
+AUTO_HANDLE | Amazonでポチってたシャーペンが到着(ﾟ∀ﾟ) しばらくはこの三本を使っていきます
+HUMAN | Thats the issue.. if I wanted to waste my time with you why would I asked for the help from you. The representative told me the same thing to wait till 1st of Dec for the refund in my account and I dont want that. I want the refund today itself as its already delayed for 2 days.
+AUTO_HANDLE | ワクワクと漫画買おうとしたらKindleくんが充電されてくれないし再起動もしてくれないしオアアアアン😭電源に繋いだらランプは点くのに電源に繋いでくれ！って表示が出続ける…電源ボタン3分ぐらい長押してもシーンってかんじ…そんな…もっと熱くなれよ…
+AUTO_HANDLE | アマゾンプライムビデオ有能〜 るろ剣みれるとかやるやん♪
+HUMAN | Hi Paul! feel free to msg me for any legal assistance. I will take up ur case with all possible legal assistance. BYL is dedicated to resolve such customer issues 24x7! DM me now
+AUTO_HANDLE | since when you stop giving 20% off videogame pre-orders (amazon prime members) im confused? why?
+HUMAN | I’ll be going on live chat after work, still need to discuss my parcel that was dumped in my garden, no card through the door, found it four days later after it had rained all week.
+HUMAN | Way to drop the ball on customer service so pissed right now!
+HUMAN | ordered 3 times now😡😡 still not DISPATCHING
+HUMAN | . Item has not been delivered but tracking says it was handed to me over an hour ago... 2nd time this has happened. Sort it out
+AUTO_HANDLE | What country is this in? I need a dialing code
+HUMAN | Product had a.lot of scratches and dust. Requested sry, Demanded fr a return!!
+HUMAN | I would like to request a call back regarding a delivery issue I'm currently facing
+AUTO_HANDLE | Thanks for the style advice, look ...I think? #Halloween2017 #flamingo

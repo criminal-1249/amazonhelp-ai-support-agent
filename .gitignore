@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+llm_env/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Evaluation generated outputs
+eval/golden_eval_results.jsonl
+eval/golden_eval_summary.json
+
+# data
+data/raw/twcs.csv
+data/raw/sample.csv
+data/vector_store/
+
+#intent 
+data/processed/intent_classified.jsonl
