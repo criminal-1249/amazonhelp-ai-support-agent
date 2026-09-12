@@ -850,11 +850,11 @@
    Message Input Bar
    ========================================================================== */
 .input-section {
-  background: #ffffff;
-  border-top: 1px solid var(--border-light);
+  background: var(--amazon-navy);
+  border-top: 1px solid var(--border-dark);
   padding: 0.85rem 1.25rem 1.1rem;
   flex-shrink: 0;
-  box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.02);
+  box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .input-container {
@@ -869,8 +869,8 @@
   display: flex;
   align-items: flex-end;
   gap: 0.65rem;
-  background: #ffffff;
-  border: 1.5px solid var(--border-light);
+  background: var(--amazon-slate);
+  border: 1.5px solid #3b4d61;
   border-radius: var(--radius-xl);
   padding: 0.5rem 0.75rem 0.5rem 1.1rem;
   transition: all 0.2s ease;
@@ -879,7 +879,7 @@
 
 .input-box-wrapper:focus-within {
   border-color: var(--amazon-orange);
-  box-shadow: 0 0 0 3px rgba(255, 153, 0, 0.15);
+  box-shadow: 0 0 0 3px rgba(255, 153, 0, 0.25);
 }
 
 .chat-textarea {
@@ -888,7 +888,8 @@
   background: transparent;
   font-size: 0.92rem;
   line-height: 1.5;
-  color: var(--text-primary);
+  color: #ffffff;
+  caret-color: var(--amazon-orange);
   resize: none;
   outline: none;
   max-height: 150px;
@@ -897,7 +898,16 @@
 }
 
 .chat-textarea::placeholder {
-  color: var(--text-muted);
+  color: #94a3b8;
+}
+
+.chat-textarea:disabled {
+  color: #64748b;
+  cursor: not-allowed;
+}
+
+.input-box-wrapper:has(.chat-textarea:disabled) {
+  opacity: 0.6;
 }
 
 .btn-send-message {
@@ -922,7 +932,7 @@
 }
 
 .btn-send-message:disabled {
-  background-color: #cbd5e1;
+  background-color: #334155;
   color: #64748b;
   cursor: not-allowed;
   transform: none;
@@ -935,7 +945,11 @@
   justify-content: space-between;
   padding: 0 0.5rem;
   font-size: 0.72rem;
-  color: var(--text-muted);
+  color: #94a3b8;
+}
+
+.input-helper-row strong {
+  color: #cbd5e1;
 }
 
 /* ==========================================================================

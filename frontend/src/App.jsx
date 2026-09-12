@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import ChatWindow from './components/ChatWindow';
@@ -21,6 +21,9 @@ export default function App() {
   const [isOnline, setIsOnline] = useState(true);
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
+  const lastSuccessRef = useRef(Date.now());
+  const checkSeqRef = useRef(0);
+
   // Initialize conversations from localStorage on initial load
   useEffect(() => {
     const saved = loadConversations();
@@ -34,16 +37,44 @@ export default function App() {
     }
   }, []);
 
-  // Health check on mount and periodic polling
+  // Health check on mount and periodic polling with race-condition guards
   const runHealthCheck = useCallback(async () => {
+    const seq = ++checkSeqRef.current;
     const res = await checkBackendHealth();
+
+    // Prevent race condition: ignore if a newer health check was fired
+    if (seq !== checkSeqRef.current) return;
+
+    // If chat or health check recently succeeded (within 15s), avoid false offline flutter
+    if (!res.ok && Date.now() - lastSuccessRef.current < 15000) {
+      return;
+    }
+
     setIsOnline(res.ok);
+    if (res.ok) {
+      lastSuccessRef.current = Date.now();
+    }
   }, []);
 
   useEffect(() => {
-    runHealthCheck();
-    const interval = setInterval(runHealthCheck, 20000);
-    return () => clearInterval(interval);
+    let isMounted = true;
+    let timerId = null;
+
+    const scheduleNext = () => {
+      if (!isMounted) return;
+      timerId = setTimeout(async () => {
+        await runHealthCheck();
+        scheduleNext();
+      }, 25000);
+    };
+
+    // Execute immediately on application load
+    runHealthCheck().then(scheduleNext);
+
+    return () => {
+      isMounted = false;
+      if (timerId) clearTimeout(timerId);
+    };
   }, [runHealthCheck]);
 
   // Handler: Start a new conversation thread
@@ -155,6 +186,7 @@ export default function App() {
 
       setConversations(updatedConversations);
       saveConversations(updatedConversations);
+      lastSuccessRef.current = Date.now();
       setIsOnline(true);
     } catch (err) {
       console.error('API Error:', err);

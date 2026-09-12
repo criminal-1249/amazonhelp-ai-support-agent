@@ -3,46 +3,82 @@
  * Connects to FastAPI backend through Vercel proxy
  */
 
+const rawBase = import.meta.env.VITE_API_URL;
 const API_BASE_URL = (
-  import.meta.env.VITE_API_URL || "/api"
+  rawBase && typeof rawBase === "string" && rawBase.trim().length > 0
+    ? rawBase.trim()
+    : "/api"
 ).replace(/\/+$/, "");
 
 /**
- * Checks backend health status
+ * Checks backend health status through Vercel proxy (/api/)
+ * Includes a lightweight retry (1 retry) on timeout or network error to avoid false offline alerts
  */
-export async function checkBackendHealth() {
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 4000);
+export async function checkBackendHealth(retries = 1) {
+  const url = `${API_BASE_URL}/`;
 
-    const response = await fetch(`${API_BASE_URL}/`, {
-      method: "GET",
-      headers: {
-        Accept: "application/json",
-      },
-      signal: controller.signal,
-    });
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 6000);
 
-    clearTimeout(timeoutId);
+      const response = await fetch(url, {
+        method: "GET",
+        headers: {
+          Accept: "application/json",
+          "Cache-Control": "no-cache",
+          Pragma: "no-cache",
+        },
+        cache: "no-store",
+        signal: controller.signal,
+      });
 
-    if (response.ok) {
-      const data = await response.json();
-      return { ok: true, data };
+      clearTimeout(timeoutId);
+
+      // Successful HTTP 200 -> Agent Online
+      if (response.ok) {
+        let data = null;
+        try {
+          data = await response.json();
+        } catch (_) {
+          data = { status: "running" };
+        }
+        return {
+          ok: true,
+          status: response.status,
+          data,
+        };
+      }
+
+      // If backend returned an HTTP error (e.g. 500, 502, 503), retry once
+      if (attempt < retries) {
+        await new Promise((resolve) => setTimeout(resolve, 1000));
+        continue;
+      }
+
+      return {
+        ok: false,
+        status: response.status,
+        error: `HTTP ${response.status}`,
+      };
+    } catch (err) {
+      if (attempt < retries) {
+        await new Promise((resolve) => setTimeout(resolve, 1000));
+        continue;
+      }
+
+      return {
+        ok: false,
+        status: null,
+        error:
+          err.name === "AbortError"
+            ? "Connection timed out"
+            : "Backend offline",
+      };
     }
-
-    return {
-      ok: false,
-      error: `HTTP ${response.status}`,
-    };
-  } catch (err) {
-    return {
-      ok: false,
-      error:
-        err.name === "AbortError"
-          ? "Connection timed out"
-          : "Backend offline",
-    };
   }
+
+  return { ok: false, error: "Backend offline" };
 }
 
 /**

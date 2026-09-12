@@ -1,0 +1,825 @@
+{"customer_query": "dear . then why the hell i am subscribed to . if you proudly promote trailer instead of the actual show #facepalm", "intent": "order_not_received"}
+{"customer_query": "But it’s out of returns time.", "intent": "order_cancellation"}
+{"customer_query": "I have been asking for the invoice of my purchase on 26th January 2017 since 2 weeks but seller is not providing.feeln irritated", "intent": "refund_issue"}
+{"customer_query": "I heard amazon music is coming to India. When?", "intent": "delivery_issue"}
+{"customer_query": "ist es möglich explizit als Versender für einen bestimmten Kunden auszuschließen? Viele Grüße, ein bestimmer Kunde.", "intent": "seller_issue"}
+{"customer_query": "I tracked these contests just to see if you are keeping your words.. though I never win contests, I wanted to show this to your followers", "intent": "order_not_received"}
+{"customer_query": "Sorry I am at work if I'm still having trouble when I get home I will reply back in real time", "intent": "delivery_issue"}
+{"customer_query": "わかりました。", "intent": "other"}
+{"customer_query": "Yes I'm afraid so. Twice.", "intent": "wrong_product"}
+{"customer_query": "Gestern kam ein Paket per Logistics. Außer „Name?“ konnte der Bote kein Wort Deutsch. Dass ich 2 Minuten vor der Zustellung schon eine Push Nachricht mit nem anderen Namen bekommen habe, konnte ich nicht mit ihm besprechen…", "intent": "delivery_issue"}
+{"customer_query": "Seriously have had NO problems with delivering my prime packages until the past two weeks when you've now screwed me over twice #done", "intent": "delivery_issue"}
+{"customer_query": "Why my number is blocked from receiving call from customer care", "intent": "account_issue"}
+{"customer_query": ", , Wrong product delivered, and now no exchange and no return. Requested many times on CC. Very Bad company.", "intent": "wrong_product"}
+{"customer_query": "I’ve ended up cancelling some of the delayed orders and buying them locally so I can’t go back in and search the carrier. UPS was the problem this time and has been a problem with past orders if memory serves correct.", "intent": "seller_issue"}
+{"customer_query": "Again, I have waited in for a parcel to be delivered, your tracker showed the driver to be 2 streets away at 1pm yet at 9pm I don't have it.", "intent": "delivery_issue"}
+{"customer_query": "I don’t know why I get my hopes up. Also thanks to Adrianna the supervisory rep at for flat out lying to me saying you spoke to a rep this morning and that it was on the truck. Their call lines are closed today. Get your shit together", "intent": "order_cancellation"}
+{"customer_query": "My first—and last order from Waited up until midnight for my delivery, never arrived. always delivers on time.", "intent": "delivery_issue"}
+{"customer_query": "Second package that says it was delivered but wasn’t #pissed", "intent": "damaged_product"}
+{"customer_query": "I returned an item on 10th, no refund till now. U canceled 1 item unilaterally and issued refund immediately... How frustrating...", "intent": "refund_issue"}
+{"customer_query": "You're working since last week but still u dnt hv a clue whr the prodct is.", "intent": "product_issue"}
+{"customer_query": "Hi Team Please arrange delivery against Order # 405-4438131-6730719", "intent": "delivery_issue"}
+{"customer_query": "bought echo in India, but echo assuming I am in US, how to install saavn & Ola skills, not showing in skills search", "intent": "product_issue"}
+{"customer_query": "Last 2 shipments you sent using #AMZL were lost in shipment. Do you have some driver ripping you off? I hear Walmart calling.", "intent": "seller_issue"}
+{"customer_query": "hello, I am a prime member,I purchased a light that didn’t work for my house I returned it&I had to pay for shipping.why is that", "intent": "payment_issue"}
+{"customer_query": "WTF!!! Just been sent 2 parcels of used rubbish 😱😡", "intent": "other"}
+{"customer_query": "Según ellos aún no tienen el paquete, no hay ninguna opción", "intent": "order_cancellation"}
+{"customer_query": "If Amazon seller cancelled my order due to \"no stock\" and the charge already showed up on my credit card, would I get a refund automatically? Anyone?", "intent": "refund_issue"}
+{"customer_query": "今届きました。ありがとうございました。", "intent": "delivery_issue"}
+{"customer_query": "Well, I want to split a payment for a purchase. But was told I can only do it using an Amazon gift card plus debit/credit card.", "intent": "payment_issue"}
+{"customer_query": "Hello good day! What do i do when i have purchased a Playstation card from and when i go to redeem the code. It gives me the error code \"The code you have entered is inactive. Please check terms and conditions.\" I put in everything correctly.", "intent": "product_issue"}
+{"customer_query": "Looks like you added VAT to shipping as well!", "intent": "shipping_vat"}
+{"customer_query": "oneplus 3t is out of stock, when can I expect to be in stock? I have been waiting for 3 weeks now!", "intent": "stock_out"}
+{"customer_query": "Ordered on 25th Oct, Dispatched 1 November... Expected delivery date 28th November... Whhhhhy so long!?", "intent": "delivery_delay"}
+{"customer_query": "I sent a mail also in this regard yesterday. Why the response is too slow in this regard?", "intent": "mail_response"}
+{"customer_query": "Do not make us helpless and kindly refund my amount ..", "intent": "refund"}
+{"customer_query": "Here's an album with the past three packages I have received:", "intent": "order_not_received"}
+{"customer_query": "this is the item", "intent": "damaged_product"}
+{"customer_query": "朝、届いたのは『Amazon Fire TV STICK』でした。 今夜のAbemaTVの林檎さん出演番組をPCやスマホじゃなくTVで見たかったのよ。 Wi-Fi接続の初期設定の段階で数字の1と英数字のlの小文字の入力を間違うという初歩的凡ミスを犯したザイオンさん👓( ￣▽￣;) これいいね👍大画面で見られるって快適✨😆", "intent": "seller_issue"}
+{"customer_query": "this price model is a shame! #polluters #Amazon", "intent": "product_issue"}
+{"customer_query": "Return Request , I don't need money I need Item Replacement. ID : 710395986833", "intent": "refund_issue"}
+{"customer_query": "Hey, any update here?", "intent": "order_not_received"}
+{"customer_query": "Till now there's no resolution....still it is showing expected delivery 10 Nov", "intent": "order_cancellation"}
+{"customer_query": "bem que meus livros podiam chegar hoje né", "intent": "delivery_issue"}
+{"customer_query": "Was macht ihr denn so an diesem schönen tag? :)", "intent": "other"}
+{"customer_query": "Will contact you soon!’", "intent": "other"}
+{"customer_query": "una pregunta más introduje el código de descuento pero ahora no me deja mover la opción de meses sin intereses.¿ puedo aplicar el código y elegir a meses?", "intent": "order_cancellation"}
+{"customer_query": "La personne m'a dit que le colis a été perdu pendant l'acheminement et a fait une demande de remboursement", "intent": "delivery_issue"}
+{"customer_query": "Providing offer but the delivery agent don't even know what cash load even is. Hence, customers not enjoying the feedback.", "intent": "wrong_product"}
+{"customer_query": "Yesterday I should have received a package. It’s been delivered, but not to me, nor do I have a note in my letterbox.", "intent": "damaged_product"}
+{"customer_query": "Neither. I placed an order Monday and I haven’t been charged yet and I haven’t used the card I made a purchase with since. It’s never taken this long to get a response back from an order", "intent": "order_not_received"}
+{"customer_query": "See second button in the snap attached here", "intent": "delivery_issue"}
+{"customer_query": "escalated 4-5 times still no action, got mail that 24-48 hrs it will get resolve ... but its been more than promissed issue is not moving", "intent": "order_cancellation"}
+{"customer_query": "This order has been automatically cancelled but i received and paid for the product which was duplicate and no refund received", "intent": "refund_issue"}
+{"customer_query": "have still no received my order. No attempt for delivery was made. What's going on. It's been over ten days.", "intent": "delivery_issue"}
+{"customer_query": "This is unacceptable. Are you in mood of cheating? Shows Product delivered bt actually nt. Now 😡😡giving only dates", "intent": "product_issue"}
+{"customer_query": "come with solution", "intent": "delivery_issue"}
+{"customer_query": "Vcs não fazem ideia!!!!! Vim fazendo a dancinha da felicidade no elevador de tão feliz kkkkk. Já logo tirei da caixa e cheirei, pq o segundo melhor cheiro do mundo é de livro novo. O melhor cheiro é de café 😍📖☕", "intent": "order_cancellation"}
+{"customer_query": "Yes you missed delivery day .your delivery executive reply \"Delay for customer request\" in track ment status whtr i am not received a call", "intent": "delivery_issue"}
+{"customer_query": "Delivered", "intent": "other"}
+{"customer_query": "charge for me twice for 2 items yet dont give money straight back! #poorcustomerservice #dissapointed", "intent": "payment_issue"}
+{"customer_query": "Thank you. Its Amazon Logistics and my name is Denise Pastor", "intent": "order_cancellation"}
+{"customer_query": "Si me marca esto entra en la promo? Por qué dice enviado por “Ituxs”", "intent": "order_not_received"}
+{"customer_query": "It doesn’t matter if I search title, author, etc. As long as the filter is “Books” and I’m logged in, nothing shows up.", "intent": "product_issue"}
+{"customer_query": "コタツとFire TV stickで冬を乗り切ります( •̀∀•́ )✧", "intent": "other"}
+{"customer_query": "the website was hard for me to negotiate being visually impaired. A dedicated number should have been available #nothappy", "intent": "account_issue"}
+{"customer_query": "check your DM", "intent": "order_not_received"}
+{"customer_query": "and I did get an email copy of the chat transcript", "intent": "order_cancellation"}
+{"customer_query": "What to revert when I didn't receive anything..are getting crazy 🙄😏", "intent": "payment_issue"}
+{"customer_query": "its not issue of out of warranty, as iball has already communicated it is the issue of stolen/unauthorized products being sold by Amazon.", "intent": "seller_issue"}
+{"customer_query": "Aún no metí el número de seguimiento en su página ponía qué la entrega sería hoy, y todo el día en casa sin salir y nada de nada.", "intent": "delivery_issue"}
+{"customer_query": "Have done is witness Jeff please response", "intent": "order_cancellation"}
+{"customer_query": "Sí. Desde ayer. Contexto: hice mi compra desde el viernes y confirmaron entrega el sábado. Luego llegó otro correo diciendo que la entrega sería el martes 21. Hace 25 horas ingresé jpg de mi estado de cuenta y aún nada.", "intent": "order_not_received"}
+{"customer_query": "No concern with your service. Don't bother, I've learnt not to buy anything important from Amazon.", "intent": "seller_issue"}
+{"customer_query": "Why do I pay for Prime when this keeps happening?", "intent": "payment_issue"}
+{"customer_query": "Need help ! Paid With card ! Amount deducted but payment not yet done !", "intent": "refund_issue"}
+{"customer_query": "Tinha uns 2 meses! Agora faltam os outros da lista hahahhaha (porque lista de livros nunca tem fim!) 😘", "intent": "order_not_received"}
+{"customer_query": "It says AMZL US. It bothers me that I have now received multiple emails that a deliver attempt was made which is incorrect.", "intent": "delivery_issue"}
+{"customer_query": "i hv filling the detial form 8 oct, but last ka to kuch hua nhi...", "intent": "order_cancellation"}
+{"customer_query": "It's Amazons own delivery service...for packages...like UPS", "intent": "other"}
+{"customer_query": "Why should I have to contact you constantly about stuff like this? My item is on its way today as today is its release day, If you preorder you pay £10 more than anyone else...strange rule", "intent": "seller_issue"}
+{"customer_query": "how do I resolve this Echo error?", "intent": "delivery_issue"}
+{"customer_query": "Still no sign of my order anywhere despite saying it was delivered last night. Order info doesn’t state who the courier was so I can’t contact them, but last night tracking said they were 5 minutes down the road for several hours?", "intent": "delivery_issue"}
+{"customer_query": "please don't irritate me....... give my money back", "intent": "refund_issue"}
+{"customer_query": "I've send an email, I hope the issue is resolved soon.", "intent": "order_not_received"}
+{"customer_query": "It was due time arrive between the 14th - 17th Oct", "intent": "order_not_received"}
+{"customer_query": "honestly im sitting here with an cart wherein i cannot take shit out of it wtf????????????????", "intent": "order_cancellation"}
+{"customer_query": "Buying echo dot will get me prime membership from date of purchase or from the date when my previous membership ends?", "intent": "order_cancellation"}
+{"customer_query": "It said would be delivered by 8 on the 11th. At 8 pm it changed to say by the 14 th. I called and your rep said sorry, that was the way it was going to be. YOU SHOULD HAVE SAID DELIVERY WOULD BE 14TH WHEN I PLACED THE ORDER! You should always under promise and over deliver. Smh.", "intent": "delivery_issue"}
+{"customer_query": "Already done", "intent": "example_intent"}
+{"customer_query": "Hi, got some problems with the paiement, I would like to pay sthing on different months, is that possible?", "intent": "payment_issue"}
+{"customer_query": "Illness. Bedrest makes me to purchase #Prime membership", "intent": "order_not_received"}
+{"customer_query": "a já ta vendendo de tudo por aqui? Preciso de um headphone novo, o meu já era.", "intent": "damaged_product"}
+{"customer_query": "AMZL . As in, AMaZinglyLate.", "intent": "other"}
+{"customer_query": "¡Ha llegado! 👏🏼👏🏼👏🏼👏🏼 ¡Muchísimas gracias ! Y a Lourdes que es quien se lo ha pedido al transportista 😊😊", "intent": "other"}
+{"customer_query": "したのポストに、注文した荷物まるっと入ってました。わーい。ごめんなさい おさわがせして。", "intent": "order_cancellation"}
+{"customer_query": "En transit depuis le 08/11. Plus aucunes nouvelles depuis.", "intent": "delivery_issue"}
+{"customer_query": "I was buy a honor 8 from I got faulty mobile so amazon replace it. But I found lots of issue with new product. I want to return & money back. But amazon.in didn't listin my problem. Is this the right way that amazon do with it's customer? #ShameAmazone.in", "intent": "refund_issue"}
+{"customer_query": "He had me re-add my payment information.... it’s not the bank, I’ve contacted them and I’ve been using this card m.", "intent": "payment_issue"}
+{"customer_query": "Looks like don't want me to keep using them or renew my #AmazonPrime 1 day shipping takes 4 days.", "intent": "account_issue"}
+{"customer_query": "Bonjour , Recommandez-vous ce site pour acheter des cartes cadeaux chez vous ? Merci de votre réponse.", "intent": "other"}
+{"customer_query": "Hello! I am not able to access help - I want to chat about an order. Problems?", "intent": "order_not_received"}
+{"customer_query": "That particular order is not listed. Can you check?", "intent": "order_cancellation"}
+{"customer_query": "why would an amazon dot started periodically beeping?", "intent": "other"}
+{"customer_query": "Das nächste Mal doch lieber mit Optimus Prime liefern, läuft dann sicher auch besser . #AmazonLogistics", "intent": "delivery_issue"}
+{"customer_query": "How do I make it so, when I'm looking at items in my cart, I can see the total amount I'm paying for each set of items as opposed to just seeing the price for a single unit? So if I'm buying 13 units at $6.95 each and 3 for $7, I can see the total price for each set?", "intent": "product_issue"}
+{"customer_query": "did you change delivery providers in SoCal? I've noticed an increase of missing totes, and they seem to no longer take away prior totes.", "intent": "delivery_issue"}
+{"customer_query": "Please update customer care data I m nt able place customer call service bcz if ur nt able find my order😡😡", "intent": "order_not_received"}
+{"customer_query": "What the hell I pay for prime and this the best you can do. It should have been here yesterday. Why isn't it being delivered by you? I live 5 miles from 3 massive amazon warehouses.", "intent": "wrong_product"}
+{"customer_query": "I cant ... it just wont let me and tge guidance provided is clearly written by a psychotic with a penchant for puzzles", "intent": "payment_issue"}
+{"customer_query": "Stupid . Ordered two things on Monday with prime two day. You say its getting delivered today ups says Friday. Neither are 2 day :(", "intent": "product_issue"}
+{"customer_query": "hiwhy am’t getting HD version movies on my device over wifi n mob data, while watchg movie time stamp bar show hidden hd bar", "intent": "delivery_issue"}
+{"customer_query": "Amazonはこの梱包どうにかならんの？(* >ω<) ごみ袋いっぱい紙ごみ💦", "intent": "delivery_issue"}
+{"customer_query": "This is great but today is not Wednesday.... which is incredibly unhelpful, but currently the normal rubbish delivery service I've come to expect from you. Prime was even WORSE. I cancelled the trial immediately.", "intent": "seller_issue"}
+{"customer_query": "Required Invoice copy of below.", "intent": "other"}
+{"customer_query": "Update: Die Kollegin vom Kundenservice hat die Rücküberweisung veranlasst und sich entschuldigt, als hätte ich sie fressen wollen. Dabei hab ich nur höflich gefragt, wo es klemmt :-D", "intent": "account_issue"}
+{"customer_query": "look forward to your partnership with", "intent": "order_not_received"}
+{"customer_query": "Did so already. They said to try via web (vs app), which I did, but doesn’t work either.", "intent": "order_cancellation"}
+{"customer_query": "Só vendo a não quando reembolsar meu pedido", "intent": "refund_issue"}
+{"customer_query": "Nope. Emails all stated ‘tomorrow’. One yesterday did too (just double checked). This has happened with last few orders", "intent": "delivery_issue"}
+{"customer_query": "We needed it for a trip we are leaving on tonight, now we will not have it.", "intent": "product_issue"}
+{"customer_query": "who can i talk to if customer support have been unable to help me?", "intent": "customer_support_inquiry"}
+{"customer_query": "cela refonctionne, ca devait être un bug", "intent": "bug_report"}
+{"customer_query": "I have sent you the details....but no acknowledgement / revert till time.", "intent": "delivery_delay"}
+{"customer_query": "is there any way I can find out when a prime parcel is due to arrive. Just missed the delivery man when I went for a shower", "intent": "delivery_delay"}
+{"customer_query": "Ive just changed it to one day delivery so does that mean i'll get it tommorow?", "intent": "delivery_delay"}
+{"customer_query": "Dear , your \"free 2-hr delivery\" is false advertising. If I place my order at 6:00, that would mean it would be delivered by 8:00, not an 8:00-10:00 window.", "intent": "delivery_issue"}
+{"customer_query": "Amazonプライム会員って最高だね？？？(今更気付く) 映画見放題って最高だね？？？？(鑑賞会しません？？？)", "intent": "product_issue"}
+{"customer_query": "Este es el enlace del producto:", "intent": "order_cancellation"}
+{"customer_query": "Every time they tell to wait a day, which then the item never arrives then they'll issue the refund. So it's like a 2-3 day process and it's predictable. Might as well just cancel my prime since Amazon Logistics is unbelievable.", "intent": "seller_issue"}
+{"customer_query": "Now this is the height of everything.. like seriously?? Your agent calls me and tells me he can't come due to his absurd reasons. And i receive a message stating product couldn't be delivered as i was not available over phone??? 👿👿👿", "intent": "payment_issue"}
+{"customer_query": "outdated payments in Amazon India. No UPI. Very sad. So many payment failures.", "intent": "payment_issue"}
+{"customer_query": "My dear, I understand that. But when u promise 1 day delivery for Prime users, all the products displayed Shud fall in that category only.!!", "intent": "delivery_issue"}
+{"customer_query": "my 1 day delivery due today still isn't \"out for delivery\" do you think it'll still arrive today?", "intent": "delivery_issue"}
+{"customer_query": "Encore un colis soit disant livré par en boîte au lettre... Qui n'est jamais arrivé...", "intent": "delivery_issue"}
+{"customer_query": "you have most disgusting & stupid team in the world, For providing third class service to your customers.", "intent": "seller_issue"}
+{"customer_query": "I love the fact that has the option to put delivery instructions but then the delivery guy doesnt follow them...", "intent": "delivery_issue"}
+{"customer_query": "Tengo la duda de que si doy un reembolso , el dinero, ¿donde es depositado?", "intent": "refund_issue"}
+{"customer_query": "No one was conciliatory, no one apologized for the blatant lying (which is recorded in chat transcripts), and I won't get my package on time. This isn't the first time. doesn't care about delivery in rural areas. Prime or not.", "intent": "seller_issue"}
+{"customer_query": "prime isnt what it used to be. I ordered a thing last Thursday AM. Still not here but I have this lame message.", "intent": "order_not_received"}
+{"customer_query": "first order #worstexperience misleading arrival date #unaccommodating customer services😡😡", "intent": "product_issue"}
+{"customer_query": "is there a problem with orders shipping from Amazon Uk and Amazon IT? I order since 18 of November and didnt ship yet!", "intent": "order_not_received"}
+{"customer_query": "There is no way to approach customer support that's why I report here", "intent": "order_cancellation"}
+{"customer_query": "Ok so I can’t find what I’m supposed to do just gives me option to buy again or contact seller. This is a joke really", "intent": "account_issue"}
+{"customer_query": "I have no doubt it will be delivered eventually. 8 or 10 days when the main reason I pay for prime is the 2-3 delivery. Its disappointing", "intent": "delivery_issue"}
+{"customer_query": "Sold by Amazon, in stock. Power, Politics, and Universal Health Care: The Inside Story of a Century-Long Battle. I really wanted to read it!", "intent": "product_issue"}
+{"customer_query": "Just had a delivery attempted email. 1) I am in, next to the door 2) it will fit through the letterbox. Your driver didn’t come!", "intent": "delivery_issue"}
+{"customer_query": "prime now is amazing too.. got delivered an hour after i ordered.. and im still in work", "intent": "order_cancellation"}
+{"customer_query": "Amazon always be putting small boxes in huge boxes wtf", "intent": "damaged_product"}
+{"customer_query": "Does this cover offline viewing?", "intent": "other"}
+{"customer_query": "So what do I do with a busted Christmas present? I can’t give this to something with stickers on it", "intent": "product_issue"}
+{"customer_query": "Any update when will send out codes? Will they be sent out in time for a pre-download or on release day? May have to cancel preorder", "intent": "order_cancellation"}
+{"customer_query": "When Have not refunded me for an Item since 11th Nov, Each time i phone (3times) i get we will call you back total waste of time", "intent": "refund_issue"}
+{"customer_query": "In my recent order of worth 11k.. I had no option to pay via card. No machine available with delivery personnel. Going back to stone age? #delhivery", "intent": "wrong_product"}
+{"customer_query": "my frnd orderd a memory card .It gt automtically cancelled after delivery of the duplicate product #badAmazon", "intent": "delivery_issue"}
+{"customer_query": "Oui plutôt deux fois qu'une", "intent": "other"}
+{"customer_query": "I thought the point of paying for next day delivery was that you for your delivery the next day? Apparently not 🤔", "intent": "delivery_issue"}
+{"customer_query": "Is there a problem with reviewing just now? Can only add star rating but not actual review.", "intent": "other"}
+{"customer_query": "No mention of the carrier, just says Amazon order update and I'll get an email within 1 business day telling me when it will be delivered", "intent": "other"}
+{"customer_query": "et bonjour quand même. 😘", "intent": "other"}
+{"customer_query": "I did yesterday and explained another parcel was out for delivery too and I was assured it wouldn’t happen again and it has. Terrible service! Parcels are worth over £80 and no idea where they’ve been left.", "intent": "product_issue"}
+{"customer_query": ". Why did you send me the European version of Forza Motorsport 7 when I live in America?", "intent": "wrong_product"}
+{"customer_query": "So Amazon said my package was delivered.. so I looked high and low outside.. it wasn't.", "intent": "delivery_issue"}
+{"customer_query": "Llegar a casa y ver que te ha dejado este libro tan bonico de una semana antes de tiempo. Con sus tapas duras y su papel güeno 😍😍😍", "intent": "damaged_product"}
+{"customer_query": "I got a 14.99 charge from Amazon digital for HBO, but i didn't order anything today, ive been in class all day! Help!", "intent": "payment_issue"}
+{"customer_query": "I did not receive any confirmation email.", "intent": "order_not_received"}
+{"customer_query": "2 day shipping huh? Does this make any sense to you?", "intent": "shipping_confirmation"}
+{"customer_query": "Sagt mal , ist das euer Anspruch, an gewissenhafte und unversehrte Lieferung? Ohne Unterschrift. Bei Regen. SO \"geliefert\"?", "intent": "shipping_confirmation"}
+{"customer_query": "ça fait 2 fois de suite que je reçois un colis défoncé en forçant pour que ça rentre dans ma boîte aux lettres c'est la bataille pour les retirer.... merci c'est très pro", "intent": "damaged_package"}
+{"customer_query": "hi, I cant get amazon prime video 2 play on my Nvidia shield, the app was preinstalled but keeps saying \"a problem has occurred\"", "intent": "app_issue"}
+{"customer_query": "Just been on hold with as amazon household account not working. On and off on hold for 22mins, women told me it was because I haven’t “upgraded to Prime” (which is rubbish), then she told me she’d ring me back after her shift ended. Wtf?? #terriblecustomerservice", "intent": "account_issue"}
+{"customer_query": "cancelled my card yesterday because I put in the wrong zip code at the gas station not in my usual area ... the banks were closed by time I realized it", "intent": "order_cancellation"}
+{"customer_query": "Sent...", "intent": "order_not_received"}
+{"customer_query": "curious why the new Echo I preordered a month ago didn't ship 2 days ago like it was supposed to? Doubt I'll get it on time now.", "intent": "account_issue"}
+{"customer_query": "Amazonやってる人に質問なんだけどさ。 コンビニ決済ってどうやるん？？馬鹿なわいでも分かるように教えてください😭😭", "intent": "payment_issue"}
+{"customer_query": "If I dm the order number can you look into this? Lately every package shipped with prime shipping has been delayed and it’s upsetting honestly.", "intent": "delivery_issue"}
+{"customer_query": "can you guys chill please", "intent": "example_intent"}
+{"customer_query": "Just received it !! Sorry and thanks 🙈", "intent": "order_not_received"}
+{"customer_query": "At last told me that have not any facility to solve kindle problem once sold, don't buy Amazon products.Disgusting", "intent": "seller_issue"}
+{"customer_query": "Delivery guys need to stop leaving parcels on the doorstep without even knocking 😒 looking at you", "intent": "delivery_issue"}
+{"customer_query": "Liebes Amazon Team Ich habe meine Bestellung Stoniert.. aber bekam mein Geld nicht zurück.. könnt ihr mir helfen ?", "intent": "refund_issue"}
+{"customer_query": "in my address before all item are delivery but not any problem of finding address & before delivered the product not any problem.", "intent": "delivery_issue"}
+{"customer_query": "No. No recibí ninguna información. Lo vi en el seguimiento del pedido. Y la fecha entrega es demasiado tarde. Si no pueden entregarlo antes del día 10.12 no lo quiero", "intent": "delivery_issue"}
+{"customer_query": "Wie in 8 von 10 Fällen ist die Verpackung von mal wieder eine Frechheit gewesen und das Comic beschädigt. Warum ist es so schwer eure Produkte zu schützen???? Die ganzen teuren Ersatzlieferungen könnte man sich sparen!", "intent": "damaged_product"}
+{"customer_query": "Okay, can you give me instructions to how to fix troubleshooting of downloaded apps won't respond or let me use", "intent": "other"}
+{"customer_query": "You need to launch an investigation into what happened to this package so I don't file a lawsuit to you and", "intent": "product_issue"}
+{"customer_query": "Yes I did it after your tweet and the error is still same.", "intent": "order_not_received"}
+{"customer_query": "Llamar empresa a correos es mucho optimismo. Mañana me pasaré en persona a que me digan que yo no estaba en casa", "intent": "delivery_issue"}
+{"customer_query": ". . To hell with you guys ! A no.1 thugs .a third grade shopping venture .", "intent": "seller_issue"}
+{"customer_query": "u hv been sry frm last 7 days nw by doing noting.I hv contacted u guy 5 times nd still order did nt gt delivered. #AmazonGreatIndianFestival", "intent": "order_cancellation"}
+{"customer_query": "quite disappointed with delivery service, after having prime membership&item is prime eligible, still taking 5+ days to get item", "intent": "product_issue"}
+{"customer_query": "Gibt es eigentlich schon die #Amazon Prime Video App für das #AppleTV? 🤬", "intent": "prime_video_app"}
+{"customer_query": "I contacted but no one is helping. It's going on 1 week of confusion.", "intent": "customer_support_confusion"}
+{"customer_query": "trying to contact delivery agent fr an update .... no response", "intent": "delivery_agent_response"}
+{"customer_query": "This afternoon, but this is the 2nd time this has happend now but this time I needed my order urgently. But it's now not getting shipped... Thx", "intent": "urgent_order_shipment"}
+{"customer_query": "Je sais pas si c’est grâce aux différents messages que j’ai envoyé au services client mais le remboursement a été effectué dans l’après midi,encore merci pour vos services", "intent": "refund_process"}
+{"customer_query": "Are you serious??? MY ACCT IS HACKED, HOW CAN I LOG-IN & FILL-IN DETAILS? Your CustSup is the pits! #amazonsucks", "intent": "account_issue"}
+{"customer_query": "Amazon y es la segunda vez que lo envían", "intent": "delivery_issue"}
+{"customer_query": "I leave a big sign on the door saying \"Do not leave parcels with neighbours\". Delivery guy leaves parcels with my neighbour.. ffs", "intent": "delivery_issue"}
+{"customer_query": "the courier agent updated incorrect details due to which i could not get my phone delivered and missed offers on phone", "intent": "delivery_issue"}
+{"customer_query": "any idea where my package is or has it been nicked, said it was delivered at 12:48 and nothing in post", "intent": "delivery_issue"}
+{"customer_query": "Absolutely disgraceful customer service this morning from I never complain but I'm utterly appalled! Thanks for ruining my day!!!", "intent": "order_cancellation"}
+{"customer_query": "Tenho alguns... Acho que vou ler algo relacionado com mistério", "intent": "other"}
+{"customer_query": "No they just said of I don't know where the voucher was purchased from then they can't help. It was gift so am not even sure who gave us it, but I chat understand why I can't just redeem my voucher", "intent": "product_issue"}
+{"customer_query": "Merci beaucoup !!", "intent": "other"}
+{"customer_query": "see the fraud by your delivery team. I have not even received the product and it shows product has been delivered and signed by me... big FRAUD", "intent": "fraud"}
+{"customer_query": "Hey , what's the point of a pre order if you're never going to deliver the book to me, while your website says it is in stock?", "intent": "order_cancellation"}
+{"customer_query": "Hi! My most recent order was undeliverable to that address. I read in a help article that I should re-place the order for the same items. I'm ok with that, but will my original order be refunded? Can you please confirm?", "intent": "refund_issue"}
+{"customer_query": "I haven't received my order of oneplus5 despite of being prime member why should I pay extra for this membership", "intent": "order_not_received"}
+{"customer_query": "リプライありがとうございます。 amazonさんは問題なく、運送会社の方のミスでしたので、、 中身すぐに確認しましたが幸い購入したものが固いものだったため無事でした。 わざわざありがとうございます。", "intent": "damaged_product"}
+{"customer_query": "You found any solution for that when will you deliver my order ?", "intent": "delivery_issue"}
+{"customer_query": "If resepect customer’s time then please do share a calculated timeline and resolve this within that.", "intent": "order_not_received"}
+{"customer_query": "ほぼ毎月利用させてもらってます笑 これからもよろしくお願いします🙇", "intent": "order_cancellation"}
+{"customer_query": "Still my problem is not solved.i will escalate the issue.if needed I'll go legal.customer service is not responding", "intent": "seller_issue"}
+{"customer_query": "A seller I believe", "intent": "product_issue"}
+{"customer_query": "Its 11th day. Order not shipped. Issue raised twice. Pending with fulfillment center. No response from concerned hence got advise to cancel", "intent": "order_cancellation"}
+{"customer_query": "chez vous un mail disant \"nous essayons d'avoir une date de livraison \" mais jamais de vraies nouvelles, jusqu'à aujourd'hui :-x", "intent": "delivery_issue"}
+{"customer_query": "two same products sold by same retailer with different MRP isnt this scamming customer?", "intent": "seller_issue"}
+{"customer_query": "Amazon Is slower than a snail #freddyfiles is late do something pleaseee", "intent": "delivery_issue"}
+{"customer_query": "I ordered a book in September. It was meant to be released in October. Got pushed back to November 16th. Received an email today to say won't have it until 22/24. So much for receiving it release day if you pre-order! Waited patiently for nothing! #unhappy", "intent": "product_issue"}
+{"customer_query": "アマゾンの箱がお気に入り📦 坊たん😺", "intent": "product_issue"}
+{"customer_query": "Amazonヘビーユーザー", "intent": "order_cancellation"}
+{"customer_query": "You cannot return perfume. There should some provision for the return since the quality promised is not delivered.", "intent": "damaged_product"}
+{"customer_query": "Well I have just taken delivery of an EMPTY BOX! WoW", "intent": "order_not_received"}
+{"customer_query": "I think it must have been raised with every department by now. Many chats, e-mails and phone calls.", "intent": "account_issue"}
+{"customer_query": "The extra £3 for next day before 1pm delivery.", "intent": "product_issue"}
+{"customer_query": "Il s’agit de colis privé. Je n’ai pas contacté le sav car même si désormais la date annoncée est la 15, j’espère le recevoir en fin de journée avec un peu de chance", "intent": "delivery_issue"}
+{"customer_query": "I pay for amazon prime but I am never offered free next day delivery whenever I order something???", "intent": "order_not_received"}
+{"customer_query": "and I don't know who is concerned about their valuable customers. No proper reply for our queries my Order# 405-7143301-1425949", "intent": "seller_issue"}
+{"customer_query": "Amazon very poor service delivery very poor 3day order not dispatch", "intent": "delivery_issue"}
+{"customer_query": "#hermes #hermesuk Just received an email to say my parcel has been signed for and delivered. I've been at home for several hours and no parcel has been delivered & I have definitely not signed anything. Please advise what to do next.", "intent": "delivery_issue"}
+{"customer_query": "P.s. i have been a constant customer since 1998, and with maybe a dozen minor problems that whole time, until 3rd party sellers.", "intent": "account_issue"}
+{"customer_query": "#amazon pessima assistenza ai venditori. Per la verifica di un account già attivo e ottimo sono passati 4 mesi e ancora nulla!!!", "intent": "account_issue"}
+{"customer_query": "Did as asked, been exactly 1 month since proper update as to wen if ever ill c my package? Been more than 3days since assurances on Twitter by to get back, hrs turns into days,frget delivery, I wuld even settle for tiniest info if any can b given,plz give some update", "intent": "delivery_issue"}
+{"customer_query": "Amazonで「在庫あり、2日以内に発送」と書いてあって注文した商品が10日たっても届かないので追跡してみたら、なぜか発注の一ヶ月前から中国やブラジルを経てぐるぐるしている事になってるんだけどもう諦めた方が良いのかな。数百円の商品ではあるけど金払ったんだけどな……", "intent": "product_issue"}
+{"customer_query": "メッセージきました。新品を買ったのに破損してたのは残念です。", "intent": "product_issue"}
+{"customer_query": "Hi! Nun, da ich ein iPhone X habe, wollte ich fragen, ob es geplant ist in Zukunft einen „dark mode“ zu integrieren? Schwarz würde mit dem OLED-Bildschirm großartig harmonieren und auch die Akkulaufzeit deutlich verlängern. Viele Grüße!", "intent": "product_issue"}
+{"customer_query": "please Contact me. There are some problems in my order", "intent": "order_not_received"}
+{"customer_query": "I ordered Overwatch Game of the year edition like a week ago, it said expected to come Nov. 3, and I still don’t got it?", "intent": "order_cancellation"}
+{"customer_query": "Merci je vous aimes 💙💙💙 #Fati", "intent": "other"}
+{"customer_query": "Thanks very much! Merry Christmas 😊🎄", "intent": "delivery_issue"}
+{"customer_query": "Thanks amazon, we don’t even have a doorstep, super safe place 👌🏻 dunno who “malier” is either, parcel is very wet and soggy now...", "intent": "delivery_issue"}
+{"customer_query": "podremos usar la app de Movistar+ en Fire Tv?", "intent": "other"}
+{"customer_query": "Yep not heard anything. I can't contact by phone at the moment, hence why I tried the chat but it isn't working", "intent": "account_issue"}
+{"customer_query": "I never submitted my email id i login through my phone number", "intent": "example_intent"}
+{"customer_query": "Yes once again it made it to my city in two days but then sits at the post office until the 3rd or 4ty day. USPS is never 2 day for us", "intent": "product_issue"}
+{"customer_query": "my order that was meant to arrive today hasn't", "intent": "order_cancellation"}
+{"customer_query": "Thanks for ruining my excitement to buy One+5. The delivery executive made 2 wrong remarks within the same day and I did not get my 33000 worth of prepaid shipment. PFA screenshot, could the address be any more complete? what's wrong with 9954374782? Shitty Experience!", "intent": "order_cancellation"}
+{"customer_query": "I finally made it to a supervisor and they entered a ticket for your technical team... one week and 8 different reps later.", "intent": "order_cancellation"}
+{"customer_query": "Why is prime delivery now 3 days instead of 1? Isn’t 3 days big standard delivery?", "intent": "delivery_issue"}
+{"customer_query": "while u r busy promotin various sales plz dont forget after sales/customer service.Return pick up gettin rescheduled for 10days", "intent": "order_cancellation"}
+{"customer_query": "contd.. why should I have to ask you for a response every time? When you can spam my inbox with products related to what I searched it takes ages for you to resolve this simple issue.amazing tech", "intent": "order_cancellation"}
+{"customer_query": "Screwed up", "intent": "order_cancellation"}
+{"customer_query": "c'est quoi cette blague des 49€99 qui est déduit sur mon compte alors que j'ai commander 1 fois en 6 mois", "intent": "refund_issue"}
+{"customer_query": "I've spoken to my bank and they have confirmed the money have left my account twice.", "intent": "payment_issue"}
+{"customer_query": "Guys, your delivery is terrible I know you guys delivered to the wrong address but you still want me to wait 36 hours before I can make a claim? Your picture shows deliver, but that is not my back porch. I added a picture of my back porch and what you guys show as deliver", "intent": "delivery_issue"}
+{"customer_query": "Colis privé 😕", "intent": "order_cancellation"}
+{"customer_query": "After so many conversation again you are failed to help me. stop this type of activities and don't make fool again n again..Big Big Shame on Amazon.in", "intent": "seller_issue"}
+{"customer_query": "Amazonから支払いのメールこんぞおお", "intent": "payment_issue"}
+{"customer_query": "I got it fixed now", "intent": "product_issue"}
+{"customer_query": "Beyond comprehension Amazon was Unable to re-order my damaged product.Pls fix your system problems,contact me that all was resolved", "intent": "order_not_received"}
+{"customer_query": "Aquí esperando lo que trae para este buen fin pero todavía falta una maldita hora!", "intent": "delivery_issue"}
+{"customer_query": "my Amazon India account blocked for no apparent reasons and no resolution in site when I have money in my Amazon Pay wallet", "intent": "account_issue"}
+{"customer_query": "I have called more than 20 times to return two products. Each person gives different information.", "intent": "order_cancellation"}
+{"customer_query": "Warum erneut, wenn ich schon mehrfach mit euch darüber telefoniert habe?", "intent": "seller_issue"}
+{"customer_query": "so I’ve been charged a prime membership apparently while a person from the customer support live chat told me specifically that he canceled it and now I apparently can’t get acces to my account because of security reasons and I don’t get the mail that tells me how to.", "intent": "product_issue"}
+{"customer_query": "partially with the customers My friend got same order at same price but my order has been cancelled.", "intent": "order_cancellation"}
+{"customer_query": "done with them after 20+ years", "intent": "seller_issue"}
+{"customer_query": "Not providing anything..already order my product from never ever buying from #Amazon again.u guys are an embarrassment", "intent": "refund_issue"}
+{"customer_query": "When Prime fail to deliver 2 parcels, even after expected delivery dates & you have to rewrite your lesson plans. #stressful", "intent": "delivery_issue"}
+{"customer_query": "Je ne vois pas où je peux le signaler sur mon espace client ? J’ai envoyé un message au vendeur qui est resté sans réponse", "intent": "account_issue"}
+{"customer_query": "Hey I bought a used textbook for my kids and maybe it missed the quality control step? 🤔", "intent": "damaged_product"}
+{"customer_query": "my package got sent to the wrong address smh", "intent": "delivery_issue"}
+{"customer_query": "It was of no use.. so i have cancelled the order and placing a new one.. but I have not yet got the refund in my Amazon pay balance when will I get it?", "intent": "refund_issue"}
+{"customer_query": "I hung up, cause calling me to put me on hold for more than 10 mins isn't good customer service.", "intent": "seller_issue"}
+{"customer_query": "They have no any resolution rest self return", "intent": "product_issue"}
+{"customer_query": "Oye como puedo quejarme de una entrega que me han hecho? Tanto del servicio como del repartidor.", "intent": "delivery_issue"}
+{"customer_query": "hi I'm being charged for seller repayment but do not have a sellers account (I've tried logging in and it just says I don't-", "intent": "account_issue"}
+{"customer_query": "Link is not working. :)", "intent": "link_issue"}
+{"customer_query": "hello, is there a way right now to contact costumer service by email? In page “Contact Us” i only have the Phone or chat option. Thanks.", "intent": "other"}
+{"customer_query": "I ordered it from amazon italy, here is a screenshot of the order i didn’t receive", "intent": "order_not_received"}
+{"customer_query": "am I able to delay an order but not cancel it ?", "intent": "order_delay"}
+{"customer_query": "Still traking not updated for my order xx5520 #WorstExcusesForCheating", "intent": "order_tracking_issue"}
+{"customer_query": "I am having this issue too. Cannot find a single item on the whole of Amazon I can get delivered before Monday. What's going on?", "intent": "delivery_issue"}
+{"customer_query": "When is the launch of #Amazonprimemusic happening in India? We are in December now?", "intent": "prime_music_launch"}
+{"customer_query": "U can DM ur reply. It's not necessary to tweet.", "intent": "direct_message"}
+{"customer_query": "if I buy something in black Friday am I still able to return the product?", "intent": "returnability_question"}
+{"customer_query": "Primeira remessa #blackweek da chegou o/// ☆ ☆ ☆ ☆ #livroslindos #livrosnovos #livros…", "intent": "returnability_question"}
+{"customer_query": "Do u know when this will be if delivery is due on the 7th", "intent": "delivery_date_question"}
+{"customer_query": "La société TNT", "intent": "delivery_company_question"}
+{"customer_query": "FYI I have given the package to the person it was intended for !", "intent": "package_delivery_question"}
+{"customer_query": "why your customer service never bothers to give a promised call back or respond to emails? Already regret I renewed my Prime", "intent": "order_cancellation"}
+{"customer_query": "Das Teil ist bei euch angekommen. Damit hat Amazon ja nichts zu tun. Ihr habt den Schaden. Ihr habt zu Ersetzen!", "intent": "product_issue"}
+{"customer_query": "I filled the Document even twice.... But I didnt get a message in the link you specified and nothing in email associated with the ID.", "intent": "order_not_received"}
+{"customer_query": "Heute. Ja. Per Email.", "intent": "delivery_issue"}
+{"customer_query": "Wheres my damn package", "intent": "delivery_issue"}
+{"customer_query": "im sitting at home on my couch how are you going to say \"delivery attempted\".... you didnt attempt anything", "intent": "delivery_issue"}
+{"customer_query": "Amazon India", "intent": "seller_issue"}
+{"customer_query": "I had 2 lengthy phone calls, the last where the supervisor would not provide her name and stopped talking to me after 50 mins.", "intent": "order_not_received"}
+{"customer_query": "Checkout my timeline. You will get to know what kind of service amazon is providing to me.", "intent": "other"}
+{"customer_query": "Desktop... but I restarted my browser and now it's back!", "intent": "product_issue"}
+{"customer_query": "If number is not reachable then courier should come & deliver,latest number was already updated, raised request atleast 8-10 times", "intent": "delivery_issue"}
+{"customer_query": "check out how #Amazon delivered the packages.", "intent": "delivery_issue"}
+{"customer_query": "Me daba error. He hecho un par de cosas por casa y ahora, volví a intentarlo y ya funcionaba. Gracias y perdón por la molestia 😘", "intent": "refund_issue"}
+{"customer_query": "hola, buena tarde... a los cuantos dias se aplica el reembloso de una compra cancelada con tarjeta de debito? saludos", "intent": "payment_issue"}
+{"customer_query": "please tell Olive D. she was extremely helpful and perfect 👏👏 #mahalo", "intent": "order_cancellation"}
+{"customer_query": "Since I can't sleep I just ordered new jackets from #thedeathofmewillbecausedbyamazon ...I can literally order something everyday. 😐", "intent": "order_not_received"}
+{"customer_query": "Is it possible to have multiple devices in different physical locations? For example, having one at my office, but it's still linked to the same account I use at home?", "intent": "multiple_devices"}
+{"customer_query": "Eu recebi um e-mail mas não fala \"pagamento aprovado\" posso te mandar na dm?", "intent": "payment_issue"}
+{"customer_query": "I have 2 emails confirming my delivery would arrive in 2 days, I get an email today saying the item won't be here until a week later. Why?", "intent": "delivery_issue"}
+{"customer_query": "\"UPS nous a informé avoir tenté d'effectuer la livraison d'un colis de votre commande Amazon mais n'a pas été en mesure de vous le livrer en votre absence. \" Euh..... Alors si le livreur avait DAIGNE sonner à ma porte, il aurait sû que j'étais là hein....😡😡😡😡", "intent": "wrong_product"}
+{"customer_query": "sonst seit ihr die besten was #Kundenservice angeht, heute wohl nicht. Artikel vorgestern bestellt, heute um 170€ gesenkt. Antwort vom Support: Einfach zurückschicken. Unkompliziert sieht anders aus! So entstehen dann auch äußerst paradoxe Situationen. #Amazon", "intent": "order_cancellation"}
+{"customer_query": "n' aime pas que l'on discute avec les fournisseurs. Ils coupent la connexion...😈", "intent": "delivery_issue"}
+{"customer_query": "Yes, three times actually.", "intent": "seller_issue"}
+{"customer_query": "#AmazonIndia I posted a review for bad service by amazon and Amazon denied to post it or Amazon India does not want any content in Indian language.", "intent": "other"}
+{"customer_query": "Por telefone eles me informaram que pagamentos por TEF não tem reembolso, e que por isso não existe registro nenhum. Que teria que existir outro TEF por parte da Amazon. Mas formalizei um registro de dúvidas com protocolo lá, e aviso caso tiver atualizações.", "intent": "payment_issue"}
+{"customer_query": "何のためのAmazon Dashや 郵便局まじうざ 宅配ボックスあるのに持って帰っとるし おととい頼んで昨日きて持って帰って今日またきて持って帰る バカか ボックスの使い方ぐらいわかるやろ（怒） 前も一回言ったのに こんなんならふつーに頼んだらヤマトやけこっちが早いわたーけ", "intent": "delivery_issue"}
+{"customer_query": "迷惑メールの中に入っていて確かに今日amazonでマウス買ったからスルーしそうになったけどこれよく見たらanazomじゃねぇか", "intent": "order_cancellation"}
+{"customer_query": "Lo que pasa es que esa tarjeta ( Liverpool Visa) no es de ningún banco y tengo esa duda", "intent": "account_issue"}
+{"customer_query": "Getting tired of waiting for Amazon delivery!! . Called the customer service 3 times already.", "intent": "payment_issue"}
+{"customer_query": "Is there any update on this issue?", "intent": "other"}
+{"customer_query": "I'm super irritated with today. Hopefully the rest of the process goes well.", "intent": "irritation"}
+{"customer_query": "Wow your customer services are not good. I spent 18 minutes trying to explain I was missing a parcel. Not impressed.", "intent": "irritation"}
+{"customer_query": "Total waste of time interacting with and the CS team, an utter shambles all round.", "intent": "irritation"}
+{"customer_query": "Hey , care to explain the region restriction for a Digital Code?!?", "intent": "region_restriction"}
+{"customer_query": "Placed a digital order and it currently says pending verification. But I’ve had no contact from card issuer etc", "intent": "order_verification"}
+{"customer_query": "devono arrivarmi le cuffiette da amazon. quanto ci scomettiamo che il corriere arriva nell’unica mezz’ora in cui non c’è nessuno a casa?", "intent": "delivery_issue"}
+{"customer_query": "No, but I just did. It originally said I would be able to get a free book when I sign up, now it says only audiobooks", "intent": "order_cancellation"}
+{"customer_query": "N° DE COMMANDE 403-2059726-1373119 impossible d'avoir la facture", "intent": "order_not_received"}
+{"customer_query": "Amazon team, plz use some decent guys for delivery who can at least speak with sm respect. Really disappointed with your delivery.", "intent": "seller_issue"}
+{"customer_query": "Also alles Einzelfälle bisher bei mir? Ist klar... 😃", "intent": "product_issue"}
+{"customer_query": "we’re sorry to hear about your experience. Please email us your Phone Number at __email__ you.", "intent": "order_cancellation"}
+{"customer_query": "What Are U Doing With your customers cheaters are in your delivery team why he is facing this how of issue.. Plz Urgently return", "intent": "payment_issue"}
+{"customer_query": "I put in the gift card I am using which is a MasterCard gift card and it keep decling it. It’s a fully loaded gift card. I will dm you a screenshot of the email.", "intent": "damaged_product"}
+{"customer_query": "My problem not resolve yet", "intent": "other"}
+{"customer_query": "Shared the whole scene in that link which u have provided to me. Check that", "intent": "product_issue"}
+{"customer_query": "Lors de Mon appel avec un de vos conseillers ce samedi il m'avait annoncé que le produit etait vendu par Amazon également ...", "intent": "order_cancellation"}
+{"customer_query": "__email__.. extremely frustrated with your services. Keep cancelling my orders,locking my account, then reinstating after some days. I have provided the info u need. Am fedup. Id rather ebay", "intent": "seller_issue"}
+{"customer_query": "pls add jandhyala movies in telugu.", "intent": "product_issue"}
+{"customer_query": "I mean my party is in 4 hours, if it’s not here I just need a refund. Don’t need a monkey costume any time but tonight lol", "intent": "delivery_issue"}
+{"customer_query": "14時間前にアマゾンで頼んだやつ届いた。すごい。", "intent": "order_not_received"}
+{"customer_query": "That excitement when you're expecting your new usb controller that you ordered from is crushed when it's not what you ordered. 😢😣😭😭", "intent": "damaged_product"}
+{"customer_query": "Do Add \"Tom and Jerry\" & \"Swat kats\" in cartoons section. #Suggestion", "intent": "suggestion"}
+{"customer_query": ". wozu prime premiumversand, wenn ich länger als 3 tage warten muss? richtig minus #verspätung", "intent": "delivery_issue"}
+{"customer_query": "カーブのあんばい、右端の折れ曲がり、偶然とはいえまさにAmazonにっこりかと(*^^*)", "intent": "wrong_product"}
+{"customer_query": "i have shared all details to __email__. can you pls take details from their and resolve the same.", "intent": "other"}
+{"customer_query": "To indeciso, já folheei todos kkkk. Mas acho que vou ler a coletânea do Edgar Allan Poe", "intent": "other"}
+{"customer_query": "hello Amazon, y’a t-il un problème avec iOS 11 avec votre application ? J’ai constamment ce message :/ merci", "intent": "payment_issue"}
+{"customer_query": "Que se pasaría el incidente al servicio técnico.De esto hace un mes. Slds", "intent": "delivery_issue"}
+{"customer_query": "second. They did not help me!", "intent": "seller_issue"}
+{"customer_query": "Penumbra, o Homem do Castelo Alto, o Problema dos três corpos, Mate o próximo, Cama de gato e Superman: entre a foice e o martelo. Esse último com um super desconto!", "intent": "product_issue"}
+{"customer_query": "scam on name of Diwali.... added taxes plus deliver etc and products are more thn mrp lol 😂 well played", "intent": "scam"}
+{"customer_query": "It's so hard to deal with #Amazon.com please understand customer's value, please stop to deal with #AmazonIndia it's bad experience ever", "intent": "other"}
+{"customer_query": "Pour une telle commande vous auriez dû passer par UPS ou Chronopost et non colis privé. Surtout que colis privé ne passe plus ici.", "intent": "wrong_product"}
+{"customer_query": "#Amazon Prime guaranteed same day delivery = BS. 2nd time they’ve done this. No delivery + customer svcs unable to give delivery ETA. How??", "intent": "payment_issue"}
+{"customer_query": "So isn't pairable with Fire TV stick, right? Customer care says, not yet for India. Anyone?", "intent": "product_issue"}
+{"customer_query": "Totally annoyed with customer services, how can it take so long to redeem a code?", "intent": "order_cancellation"}
+{"customer_query": "Yes I did, but my question is why is the delivery date 5 days after I placed my order?", "intent": "delivery_issue"}
+{"customer_query": "No body is coming to take the product and i have not got any call . I am calling since 8 days", "intent": "delivery_issue"}
+{"customer_query": "Oui", "intent": "other"}
+{"customer_query": "Hey till when is your exchange offer on electronics on till?", "intent": "product_issue"}
+{"customer_query": "If you cared that much...u wud have found out wher the hell product has gone... if some1 is calling 10 times to ur so called customer care.", "intent": "order_not_received"}
+{"customer_query": "ご丁寧に教えて頂きありがとうございました！", "intent": "order_cancellation"}
+{"customer_query": "I don’t tweet much, not at all actually, but I am dying to know : When is Prime Music coming to India? I don’t want to take a — detour — for at the moment. AmazonPrime all the way, Shop, Watch, Listen!! Save me, please?", "intent": "product_issue"}
+{"customer_query": "Ordered 4 Nov with 5 Nov delivery still not despatched and no new date great birthday present that will be!", "intent": "delivery_issue"}
+{"customer_query": "Amazonからスマホケース買ったらはいらんかった(^^;) 17日にゎ返品商品届いてるのに未だ処理されず(≧Д≦)", "intent": "wrong_product"}
+{"customer_query": "Please help", "intent": "order_not_received"}
+{"customer_query": "There is no reply option.and what should I reply, there is no question asked to me.check the screen shot for the same.", "intent": "order_cancellation"}
+{"customer_query": "completely unacceptable!", "intent": "completely_unacceptable"}
+{"customer_query": "Thank you!", "intent": "thank_you"}
+{"customer_query": "Yes", "intent": "other"}
+{"customer_query": "bonsoir, c'est normal de recevoir son colis ainsi? Sans emballage, même pas scellé !", "intent": "delivery_issue"}
+{"customer_query": "2. Comes.. It says error and gets me back to the set up menu", "intent": "payment_issue"}
+{"customer_query": "How do you set up a number of devices on amazon music with the same Alexa account will it automatically sign it self up for amazon music unlimited", "intent": "order_not_received"}
+{"customer_query": "So now I half half the order being sent back and the other half stuck in my home. I am not happy at all.", "intent": "delivery_issue"}
+{"customer_query": "Why should I b suffer since 13 oct..and who will bear financial loss..ask dealer to give me same tv at same price", "intent": "product_issue"}
+{"customer_query": "AmazonBAR、楽しみにしてて、予定組んで、友達と約束して行ったら… 「整理券終了」…そんなのAmazon公式のAmazonBARのページにはひとことも書かれてませんが？天候への対応は良いと思いますけど、公式ページに一切書れてないことを知る由ないですよね", "intent": "order_cancellation"}
+{"customer_query": "just out of curiosity. Why would you use a company like lasership? Did you not check them out first? I'm just wondering is all", "intent": "other"}
+{"customer_query": "yay! just surprised me by shipping my 2nd costume super quick when I explained that I needed it by Halloween👍", "intent": "order_not_received"}
+{"customer_query": "i’ve already called and left multiple emails and reached out to your twitter and nothing", "intent": "account_issue"}
+{"customer_query": "it has been 2 weeks after I asked about picking up return #amazon", "intent": "delivery_issue"}
+{"customer_query": "really ? No box to put this in? Glad I get to see what my husband and daughter got me for Christmas. #surpriseruined", "intent": "order_not_received"}
+{"customer_query": "De verdad que siempre es un placer hacer negocios con . Es bien sabido pero nunca está de más recordarlo. #BlackFriday", "intent": "order_cancellation"}
+{"customer_query": "The thing is, I have already complained about our deliveries and they apparently were escalated a month ago. Nothing changed apparently so now you just have to get critisized. Deal with it. Read and watch the video in the Facebook link above and do something about that. Seriously", "intent": "delivery_issue"}
+{"customer_query": "Getting packages delivered at work is how a lot of us roll. It wasn't an issue before Amazon swapped to their own delivery service since UPS has an actual schedule with our business. But now? WTF is even a schedule?", "intent": "delivery_issue"}
+{"customer_query": "#Amazon で #ニンテンドークラシックミニスーパーファミコン 配送されてるのに住所が文字化けで返送だってよ。 別に日数は構わないから、確実に荷物届いてくれないかな", "intent": "product_issue"}
+{"customer_query": "Unfortunately there is no email send by you regarding this issue. #thisisnotdone #stressed", "intent": "order_cancellation"}
+{"customer_query": "we received a package to our address but we didn’t order - has the incorrect recipient. Advice?", "intent": "order_cancellation"}
+{"customer_query": "Delivery services by are pathetic and degrading the customer experience. Negligent and have lost packages multiple times.", "intent": "delivery_issue"}
+{"customer_query": "\"Wir baten den Transporteur, dieses Paket zurückzusenden. Wir informieren Sie, sobald wir mehr wissen.\" - Wtf, ?! o_o", "intent": "delivery_issue"}
+{"customer_query": "Dear #amazon please explain what your definition of guaranteed Is. Cause 5 days late ain't in my definition. #fuckamazon #eatshitanddie", "intent": "product_issue"}
+{"customer_query": "I know that but your reverts are not satisfactory. Can you get it delivered today. I'm leaving tomorrow for some wedding. Thanks", "intent": "delivery_issue"}
+{"customer_query": "this has been the order from Hell & you outsource your customer service to people who have not been properly trained.", "intent": "seller_issue"}
+{"customer_query": "Will there be a directors cut as the film team mentioned? #Arjunreddy #amazonPrime", "intent": "other"}
+{"customer_query": "Is there any way to report suspected fake reviews on a product? 92 reviews in a 3-day period several months ago (none from a verified purchase), all 5-star, and no other reviews at all except one 1-star", "intent": "product_issue"}
+{"customer_query": "Amazon drivers always have trouble finding my address, I feel sorry for them. We should put a big illuminated sign that says “JOINERS ARMS” on the front or something. Oh wait!", "intent": "account_issue"}
+{"customer_query": "Hi, is there a way to report a bug on ?", "intent": "product_issue"}
+{"customer_query": "I 'm afraid ur this absurdity will restrict me to do shopping nxt time. Thank U.", "intent": "seller_issue"}
+{"customer_query": "Seller has applied wrong GST. At some point in future the GST department will raise a demand for the differential tax in interest and penalty. Seller is cloudtail, an Amazon India company.", "intent": "product_issue"}
+{"customer_query": "Credo sia colpa della cover che non era chiusa bene e mi ha fatto rimanere lo schermo acceso 😩 e il karma. Super gentili ❤️", "intent": "delivery_issue"}
+{"customer_query": "thought you'd like to know that told me the reason I don't have my package yet is because #cybermonday overwhelmed them. But the went ahead and marked as delivered. I guess to keep you happy.", "intent": "order_cancellation"}
+{"customer_query": "C'est sur le compte à mon père, mais hier soir quand on a regardé ils mettaient que le colis avait été livré à un client", "intent": "delivery_issue"}
+{"customer_query": "ORDER # 402-3233698-3832314 was never delivered but your website says hand delivered. what a joke.", "intent": "order_cancellation"}
+{"customer_query": "Já :)", "intent": "other"}
+{"customer_query": "This's been a crappy week. Surface Book ordering fiasco, \"New\" Surface Book came, was a repackage. Screen Protector came...empty box", "intent": "product_issue"}
+{"customer_query": "I still do not have my players for madden and I linked the accounts", "intent": "account_issue"}
+{"customer_query": "Would it ever go back down?", "intent": "order_cancellation"}
+{"customer_query": ". 's Kindle Fire OS is unusable. The new Fire Kids Editions I bought were literally impossible to set up without accepting a trial of Kindle Free Time Unlimited. I can't figure how to limit the apps my 6yo can see and download to only things I have approved.", "intent": "product_issue"}
+{"customer_query": "i think u have started cheating innocent peoples still not got my cashback", "intent": "seller_issue"}
+{"customer_query": "Why does my not work at all? 😭😭😭😭", "intent": "payment_issue"}
+{"customer_query": "Would have been great if it had been about delivery! I wanted to know the reason for the inconsistency in the amounts.", "intent": "delivery_issue"}
+{"customer_query": "Thanks to I have not been able to play #2k18 today devastated!", "intent": "product_issue"}
+{"customer_query": "Oigan mis queridos ayudenme a descubrir como veo en esta TV que compré", "intent": "product_issue"}
+{"customer_query": "Bonsoir, le suivi du colis me dit « en cours de livraison » et le transporteur est Amazon Logistics.", "intent": "delivery_issue"}
+{"customer_query": "why is this unavailable every time I click on purchase? It's either for sale or it's not...", "intent": "product_issue"}
+{"customer_query": "Ok do it on urgent basis two order from Lipika Roy account last four numbers are 1927 and 3928..", "intent": "order_not_received"}
+{"customer_query": "Acho que “Quem é você Alasca?” dizem que é um dos melhores do Jhon Green", "intent": "order_cancellation"}
+{"customer_query": "Sólo he contactado con vosotros por este medio, y con la compañia de transportes con el resultado que os he comentado", "intent": "order_not_received"}
+{"customer_query": "Completely bunch of non professionals in customer care .... no customer values ... sick organisation", "intent": "seller_issue"}
+{"customer_query": "Gud job, delivered product to wrong person and keep beat about the bush for asking my order status. #patheticservice", "intent": "payment_issue"}
+{"customer_query": "Weihnachtsgeschenkefinder von zeigt kein Lego für Erwachsene auf dem Startbildschirm. 3/10", "intent": "product_issue"}
+{"customer_query": "Worst service on Amazon and also it’s delivery system ❌🚫", "intent": "delivery_issue"}
+{"customer_query": "I was told that Amazon didn't collect certain items due to courier availability and that I should contact the couriers that were then sent to me by email,Yodel or Arrow,neither of which can help despite me trying.", "intent": "account_issue"}
+{"customer_query": "Yes I do but that would require the carrier to read the instructions or even to knock on a neighbours door", "intent": "other"}
+{"customer_query": "Hi . Any chance of my package arriving during work hours tomorrow? Because, you know, I’m not at home during the day, and I generally like to leave work at 5pm. Thanks.", "intent": "delivery_issue"}
+{"customer_query": "Thank you for your time and quick response!!", "intent": "other"}
+{"customer_query": "Hey Prime any chance we can watch SRK's. Om Shanti On on Prime and Secondly Search is very poor on Prime Video.looking forward for improvements", "intent": "delivery_issue"}
+{"customer_query": "contact SAV pour changer une adresse de livraison: adresse changée pour la mauvaise commande puis commande supprimée par SAV.. ?!!", "intent": "delivery_issue"}
+{"customer_query": "3e fois j'commande pour recevoir avant 22h sur 3e fois on me dit \"livré\" alors qu'il y a rien et j'dois contacter le sav", "intent": "delivery_issue"}
+{"customer_query": "Please somebody help, I don’t see any revert coming", "intent": "payment_issue"}
+{"customer_query": "Well, your support team says file for return. But who will pay the balance amount if I buy another tv?#AmazonIndia #takeresponsibility", "intent": "refund_issue"}
+{"customer_query": "Just wasted now two hours...and cancelled the two orders. May also seriously consider cancelling my Prime Membership. Thanks for nothing.", "intent": "order_cancellation"}
+{"customer_query": "Any point in Amazon Prime? 1 out 3 next day deliveries in past week - no notification of delivery times either.", "intent": "order_cancellation"}
+{"customer_query": "I'm on mobile and don't have a URL to post...", "intent": "account_issue"}
+{"customer_query": "Unable to add Money to Amazon Pay.. Not receiving verification text mesaage!", "intent": "payment_issue"}
+{"customer_query": "DNS address not found", "intent": "other"}
+{"customer_query": "Need more comprehensive commands and command chaining. eg: Switch off Hall Lights in 10 minutes.", "intent": "delivery_issue"}
+{"customer_query": "Short if it.. Wait for your package and suck it up consumer... Not by Amazon.. Amazon didn't do anything bad. USPS is the joke.", "intent": "delivery_issue"}
+{"customer_query": "Good Evening I've a parcel which appears to be delivered but I've not received anything at all. There's nothing inside or outside.", "intent": "delivery_issue"}
+{"customer_query": "Es todo vuestro.", "intent": "delivery_issue"}
+{"customer_query": "'Wait' - and if I don't see any progress in a few days then to source from elsewhere. That is great because obviously under Subscribe and Save I will not be able to cancel the order anyway! It 'might' get to me tomorrow, which is the date it has been due all month.", "intent": "order_cancellation"}
+{"customer_query": "#LGQ6AppQuiz Where is result?", "intent": "order_not_received"}
+{"customer_query": "Will Amazon make the new Fire TV (4k + HDR) available on Prime Now today ? I don't see it there at the moment.", "intent": "order_cancellation"}
+{"customer_query": "Will Battlefront 2 for PC be in stock any time soon before launch or at launch on November 17th?", "intent": "product_issue"}
+{"customer_query": "question, how come your courier failed to gain access to my property in spite of the fact I’m currently sitting in my home and just tested my doorbell. Deliberately waiting for this delivery, not ideal!!!", "intent": "delivery_issue"}
+{"customer_query": "Y’all lackin", "intent": "other"}
+{"customer_query": "Early birthday present that I got today from my older brother 🙌🏼", "intent": "order_received"}
+{"customer_query": "can someone DM regarding your delivery service please ?", "intent": "delivery_service_request"}
+{"customer_query": "if I have Echo Plus in one room and Echo dot in another, can I stream different music on both, can I play the same track on both?", "intent": "music_streaming_question"}
+{"customer_query": "hi Amazon! I am a huge fan, I was expecting a package today, app says it has been delivered but I haven’t left home and it is not here, checked mail and nothing, what can I do? :(", "intent": "package_delivery_issue"}
+{"customer_query": "Très bien merci.", "intent": "positive_feedback"}
+{"customer_query": "90% of the time are great. But when something goes wrong, getting an answer from them is like getting blood from a stone.", "intent": "order_not_received"}
+{"customer_query": "Ja, habe ich ausgefüllt.", "intent": "order_cancellation"}
+{"customer_query": "It seems that free 2-day shipping is more like \"Hey! Be happy, most things get there in 2-days and it's free shipping\" #waitingPatiently #NosePressedToGlass", "intent": "wrong_product"}
+{"customer_query": "why can't I pre order Dunkirk on dvd?", "intent": "delivery_issue"}
+{"customer_query": "-why you trying to charge me for a show I paid for?!", "intent": "refund_issue"}
+{"customer_query": "Filled the landmark field in the delivery address & the delivery guy asked me to come there instead of delivering home. #facepalm", "intent": "delivery_issue"}
+{"customer_query": ", Where is my order #403-7469811-1791523 ? Escltd 4 times to ur cstmr care. Prime Dlivry shld hv hppnd by 2day 8 pm .", "intent": "order_not_received"}
+{"customer_query": "Que desmadre para entregarme un libro ; no me pueden hacer una llamada para confirmar la entrega? Primera vez que compro #epicFail", "intent": "wrong_product"}
+{"customer_query": "Amazon India Purchased BAJAJ IMMERSION ROD ORDER NO 171 5505723 9172339 DTD 6.11.2017 RECIVED STONES DELIVERY ON 11.11.2017. REALLY AMAZON IS GRATE", "intent": "order_cancellation"}
+{"customer_query": "I specially ordered Maksym's xmas gift to come in an box because it's obviously a surprise but it didn't and now he saw the fucking box and what it was when we picked it up. I'm absolutely devastated.", "intent": "product_issue"}
+{"customer_query": "- Is there a way to choose carriers? I would rather have UPS or USPS over AMZL. I consistently have issues with AMZL.", "intent": "delivery_issue"}
+{"customer_query": "Orders makeup brushes, recieves candles. Cheers .", "intent": "delivery_issue"}
+{"customer_query": "How exactly does my order make it out for delivery and then all of a sudden disappear? 🤔🤔🤔", "intent": "delivery_issue"}
+{"customer_query": "order 114-1236224-5262618 Please re-deliver the 1st item as it missed the delivery.", "intent": "order_cancellation"}
+{"customer_query": "Hey Amazon. Remember when you promised me my item would be delivered today? Guess what? It’s 9.20pm and it’s not arrived. Promise broken.", "intent": "order_not_received"}
+{"customer_query": "Dear : Why can you not deliver Prime items in the timeframe you promise? What am I paying for?", "intent": "delivery_issue"}
+{"customer_query": "Bonjour, il y a un problème avec une commande et on me dit de contacter le service client. Comment puis-je le faire ?", "intent": "order_cancellation"}
+{"customer_query": "DM", "intent": "other"}
+{"customer_query": "Have restarted kindle, nothing works", "intent": "account_issue"}
+{"customer_query": "my card was charged twice for an order I did last week. Help!", "intent": "payment_issue"}
+{"customer_query": "hey, just wanted to say thanks to twana for great customer service in chat tonight. She went above and beyond.", "intent": "thank_you"}
+{"customer_query": "2/2 about the lying and dodging by ur team. Esp now that i am a prisoner of ur system. God forbid others", "intent": "complaint"}
+{"customer_query": "worst service no pickup after16 call and 10 days.. 9873670377 every tym asked to wait for 24 hr.. Unexpected", "intent": "complaint"}
+{"customer_query": "how can one firm has a policy of not retuning money of heir customers..", "intent": "complaint"}
+{"customer_query": "so my parcel was on its way and now it’s going to be late. Tremendous. Birthday gift ruined.", "intent": "complaint"}
+{"customer_query": "Hi, yes. This is the mail from 3rd Oct. It's 2-3 business days since then. So again, where are we on this?", "intent": "order_not_received"}
+{"customer_query": "Ya I chk bt I m not satisfied Bcz I purchase on 14 may only. Plz chk the catalog of before 11may n after 14 may.", "intent": "order_cancellation"}
+{"customer_query": "I got an email from customer service. Thank you!", "intent": "refund_issue"}
+{"customer_query": "Can we have an Option to not use UPS as a Package Carrier? 6 if my last 7 orders delivered by them were delayed because they-", "intent": "wrong_product"}
+{"customer_query": "Ya funciona en Roku?", "intent": "product_issue"}
+{"customer_query": "Can you look into my order to see when it might ship?", "intent": "order_not_received"}
+{"customer_query": "Awesome! Thanks for the info and reply.", "intent": "order_cancellation"}
+{"customer_query": "I can’t purchase for advertised price $314. In cart it says $494.", "intent": "payment_issue"}
+{"customer_query": "Just got my hands on 's Origin. Thanks for delivering it in under 12H. Lovin this! 😊", "intent": "product_issue"}
+{"customer_query": "shared details. 2nd time this is happening in 1 month. Pathetic service", "intent": "product_issue"}
+{"customer_query": "hi is there any way of checking why I'm being charged? I'm on a 6 month free student offer.", "intent": "order_cancellation"}
+{"customer_query": "Great, appreciate the advice and quick replies. Have a good day", "intent": "other"}
+{"customer_query": "When I finally reached to courier guy to pick up my courier he says it is not with him. Please follow so that I can dm you all the details.", "intent": "delivery_issue"}
+{"customer_query": "Hey , any way to get actual help from your support instead of copy/pasted responses? I received a $500 empty box from you and all they suggest is contacting the police for some reason. I'm about to file a chargeback.", "intent": "seller_issue"}
+{"customer_query": "product not delivered and tracking status showing..Delivery delayed on customer request..No request made for delay delivery", "intent": "product_issue"}
+{"customer_query": "Seriously? I post I can't find a email to address issue and you send me a link to the email, but THERE IS NO EMAIL?", "intent": "order_not_received"}
+{"customer_query": "i already shared .. but till now didn't receive call. . it's urgent", "intent": "order_cancellation"}
+{"customer_query": "I pay for prime, I paid for a service, wIted all day for my package, only to have an attempted delivery at the end of the day and I was in!?", "intent": "delivery_issue"}
+{"customer_query": "So basically, I just want an email address or a postal address that I can submit a formal complaint to, please.", "intent": "account_issue"}
+{"customer_query": "I provided all the detail - you may also call me", "intent": "product_issue"}
+{"customer_query": "I have unfortunately had to complain constantly about parcels being left on my step when having asked for them not to be . I have raised this issue at least 10 times now and constantly get told that an enquiry would be raised . Last week I promised an answer back by yesterday", "intent": "delivery_issue"}
+{"customer_query": "17h, veille de la sortie, et toujours pas de notif d'expedition alors que c'est censé être livré jour J. On se réveille !!", "intent": "delivery_issue"}
+{"customer_query": "Never requested for delay. Complained to customer care 2 days back.Still the same issue. Poor customer service", "intent": "wrong_product"}
+{"customer_query": "Has the most pathetic and worst support department I have ever had the unpleasure of dealing with! A simple question met with copy and paste replies that have 0 relevance to my question. You should be ashamed of yourselves!! Customer service ha, customer stress!", "intent": "seller_issue"}
+{"customer_query": "The past two out of three orders with have been screwed up, this is beyond a joke. One item damaged and another missing.", "intent": "product_issue"}
+{"customer_query": "Is 's new CD also available for AutoRip?", "intent": "order_cancellation"}
+{"customer_query": "Solo pone audio en español. No aparece foto carátula trasera para mirarlo. Muchos productos pone audio español, pero mirando la foto trasera pone audio castellano. En este producto no. Podrian mirarlo ya que no aparecen mas datos de audio en \"Detalles del producto\"?", "intent": "product_issue"}
+{"customer_query": "カードで支払うのを選択したのにもかかわらず、届かないことを不審に思い改めて確認したところ「確認が必要です」のような画面となりました。今までもそのカードで支払いをしていたのに、なぜか初めて今回そんなことになり必要なものが届かず残念です。", "intent": "payment_issue"}
+{"customer_query": "Suprised to have such a remark", "intent": "other"}
+{"customer_query": "Just got ths msg from : Dear customer, Your return pickup request from Amazon has been cancelled/can't be executed. For queries, please contact Amazon", "intent": "order_not_received"}
+{"customer_query": "Thanks for replying. The order says Delivered 16 Nov 2017 Your parcel was delivered. But it never arrived. My order number is ORDER # 205-3068924-3695517.", "intent": "delivery_issue"}
+{"customer_query": "Received a misprinted book today. How long will it take to get a replacement?", "intent": "damaged_product"}
+{"customer_query": "I tried to reply to this via your orders dialogue, but it would not let me do it. Bottom line: you promised these items yesterday, and they aren't even here today, and I am sick and tired of your fibs. I was here all day and my CCTV proves this.", "intent": "seller_issue"}
+{"customer_query": "Disgusted by ur services! Ur customer care agent CANCELLED my order WITHOUT my consent. Moreover order ws accepted WITHOUT stock!", "intent": "order_cancellation"}
+{"customer_query": "Lol when my package was guaranteed to be here last Thursday because of prime and it’s still not here on Sunday #annoyed", "intent": "product_issue"}
+{"customer_query": "なにこれ怖くね？Amazonはたまーーーに使うけどプライム会員登録した覚えはまじでないんだけど なにこれ", "intent": "order_cancellation"}
+{"customer_query": "which one is correct? top or bottom?", "intent": "order_not_received"}
+{"customer_query": "Desde el 22 de octubre estoy esperando un reembolso de ¿Por qué tardan tanto? #burocracia", "intent": "refund_issue"}
+{"customer_query": "Hi any sign of my order turning up? Looks like it has been in a Cardiff warehouse for five weeks now.", "intent": "delivery_issue"}
+{"customer_query": "will I get refund or replacement please suggest as per the executive I've to wait till seller respond", "intent": "product_issue"}
+{"customer_query": "Le transporteur c'est Amazon Logistics. D'apres le site Amazon, il est en transit depuis le 7 novembre. Quel est le lien pour le site d'Amazon Logistics ?", "intent": "delivery_issue"}
+{"customer_query": "Ein Paket mit garantierter Lieferung, das nicht zugestellt hat.", "intent": "delivery_issue"}
+{"customer_query": "Was told it would be today instead but yet its been nearly a week wheres my package", "intent": "delivery_issue"}
+{"customer_query": "I have emptied almost 100 items from my order later list and am trying to clear out my wish list (though it is fighting me).", "intent": "order_cancellation"}
+{"customer_query": "Poor service.Was out of station for a day. Product returned without informing.Not hapyy.Price doubled now.Doesnt expected it from", "intent": "product_issue"}
+{"customer_query": "me he dado cuenta que estaba suscrita a unlimited desde enero, solo navegando y de repente estas suscrito,sin un correo. FLIPO", "intent": "order_cancellation"}
+{"customer_query": "just called customer care had a word with Charan who was quite rude, dont have manner to talk to customers, wht kind of executives u hired, nt acceptable such bad version from such big brand, why r u spoiling Amazon with such people, WORST", "intent": "seller_issue"}
+{"customer_query": "What the hell is going on. Let me give u an inside you made a worst call this time. We will go for the last stand. I need refund thats it.", "intent": "refund_issue"}
+{"customer_query": "You guys respond here but take no action. Amazon is losing its hold in small cities I think it's time to shift to your rivals", "intent": "delivery_issue"}
+{"customer_query": "Snap! I feel your pain!", "intent": "product_issue"}
+{"customer_query": "Unfortunately my account is now handled by Amazon business who doesnt work on Saturday and Sunday, yet another reason to conveniently push the matter ahead and then say sorry and deliver it the next day and guess what? The next is when it is was gonna get delivered anyway.", "intent": "account_issue"}
+{"customer_query": "but the deal had ended! So I agreed with you guys that you would credit my account with the amount to pay full price (including the money i had paid), however 4 conversations and many many hours later, I still don't have the full amount in my account.", "intent": "account_issue"}
+{"customer_query": "クタクタになって帰宅したらばっ 銀魂の届いてたよ！うれしー！！ ヽ(；▽；)ノ 奮発してAmazon限定Blu-ray買ったぜ！", "intent": "product_issue"}
+{"customer_query": "ご丁寧にありがとうございます。 久しく利用していませんが、機会がありましたらまたお買い物させてください。", "intent": "other"}
+{"customer_query": "Amazonのプライム会員お試しの解約するの忘れてたー ( ; ゜Д゜)年会費3900円💸有効に使うしかない(T_T)⬅Amazonの思惑通り", "intent": "other"}
+{"customer_query": "最近、amazonが異様に重い。", "intent": "delivery_issue"}
+{"customer_query": "unable to play video on my laptop", "intent": "other"}
+{"customer_query": "Thank you, already sent email and waiting for a reply there. Apologizes for the persistence as we absolutely needed this today. I'll continue the discussion in the email once they reply.", "intent": "order_not_received"}
+{"customer_query": "if an item is ordered on Christmas Day, would it come on Boxing Day through Prime One Day Delivery, or would it come the day after, the 27th?", "intent": "other"}
+{"customer_query": ", new Kindle app design is terrible. Most of screen, top and bottom, taken up by book (cont)", "intent": "product_issue"}
+{"customer_query": "episodes r made and available on net through other sources but even being Prime member there r incomplete seasons.", "intent": "order_not_received"}
+{"customer_query": "My new Sleeping Beauties book is falling apart. 😔#amazonprime", "intent": "product_issue"}
+{"customer_query": "I have and it appears to be up to date. I tried apps and am able to watch them", "intent": "delivery_issue"}
+{"customer_query": "i know it's Sunday but can i get this package before 8pm tonight.... Smh wanted to game tonight but i guess i have to wait till tomorrow after work...", "intent": "other"}
+{"customer_query": "Worst service. Aftet several call and more than 2 months my order us not delivered. Fake tracking information provided.", "intent": "order_cancellation"}
+{"customer_query": "いえいえ笑 お世話になっております😂👏", "intent": "other"}
+{"customer_query": "ご案内ありがとうございます。よくみるとそこまで大きな損傷でもないようなので、返品交換の手間とのバランスで考えてみます。", "intent": "damaged_product"}
+{"customer_query": "need to return an item because it's the wrong size but can't contact seller to find out procedure, advice?", "intent": "wrong_product"}
+{"customer_query": "Hey what's the point of ordering next day delivery with #prime if it does't show up next day or the day after?", "intent": "delivery_issue"}
+{"customer_query": "😡bad service order made yesterday with guaranteed delivery today tracking says by 8pm now got message from liars that deliver that a delivery attempt at 3.19 pm im sat by my front door Bloody liars not impressed #Bad service #liars #amazon", "intent": "seller_issue"}
+{"customer_query": "NO NO NOO! my order is in my city and i am 100% sure it will be delivered tomorrow.", "intent": "order_not_received"}
+{"customer_query": "If my locker pick up emails says pick up by Tuesday does that meant I can collect tomorrow?", "intent": "delivery_issue"}
+{"customer_query": "I was sent a generic email and talked to someone on the phone from and USPS but no one can tell me where my item is. (3)", "intent": "delivery_issue"}
+{"customer_query": "Already done that, NO REPLY!!! NOW, what do u have to say??? Only the Customer asked to contact, YOU GUYS DONT!!! PUTRID CUST SUPP!!!!!", "intent": "seller_issue"}
+{"customer_query": "trying to order a new Echo. Can't get past the qty update...? Whats up?", "intent": "product_issue"}
+{"customer_query": "Super, je commande une ceinture d'aïkido sur et je reçois... x)", "intent": "order_not_received"}
+{"customer_query": "In a day full of bad luck, of course my Prime Now order was undeliverable for some god-forsaken reason 😂", "intent": "order_cancellation"}
+{"customer_query": "Ah então são só os que aparecem lá mesmo? Não pode ser um em inglês que não vai ser considerado estrangeiro?", "intent": "delivery_issue"}
+{"customer_query": "cant believe what I’ve just been told by one of your Cust Svc reps! I’ve waited in al day for a Prime delivery only to be told it is no longer going to come today!! WTF am I paying £80 pa for? Then told no compensation either!!", "intent": "payment_issue"}
+{"customer_query": "So what you're telling me is that if release date shipping is not available, it could be a month or more before my package ships.", "intent": "wrong_product"}
+{"customer_query": "Could you please help us with your marketing or advertising department contact details. We need it for an event.", "intent": "other"}
+{"customer_query": "It doesn’t, lol. We’ll wait for yet another email and just cancel both amazon and . We’ve already called our bank and had the charges reversed.", "intent": "order_not_received"}
+{"customer_query": "Ordered the new Samsung galaxy 8 from . The phone is fine but you need to be careful with the packaging. Massive hole in the box it arrived in.", "intent": "damaged_product"}
+{"customer_query": "It's showing delivery attempted last night but nobody has came. I was at my home whole day. Pls recheck.", "intent": "delivery_issue"}
+{"customer_query": "I am so TIRED of Amazon telling me my order is coming home today when it really isn't. Playing with my emotions and stuff.", "intent": "order_cancellation"}
+{"customer_query": "Orders to my biz address are hit&miss.Current order supposed to deliver on the 18th for a weekend project says Now expected Oct 20-Oct 24.", "intent": "order_not_received"}
+{"customer_query": "how long will it take 2 solve an issue?? It's been 11days I m complaining about not receiving d order which u showed s delivered.", "intent": "order_cancellation"}
+{"customer_query": "cust care says they reordered on my behalf. Will take 24 hours fr new delivery date. Wondering how non delivery becomes refusal by customer", "intent": "order_cancellation"}
+{"customer_query": "Pretty shocked by the like it or lump it attitude I’ve just had- seemingly ok to only deliver 4 out of my 7 items!", "intent": "wrong_product"}
+{"customer_query": "Hey something's wrong with my order. Can you guess what? (Hint, there should be 2 of something)", "intent": "product_issue"}
+{"customer_query": "Every one is working on it but no response from your side, just apologies", "intent": "order_not_received"}
+{"customer_query": "There is no such option to escalate my request", "intent": "order_cancellation"}
+{"customer_query": "Yo what happened to Prime 2day shipping? It says I won't get my order till Monday?", "intent": "delivery_issue"}
+{"customer_query": "Love the 50/50 chance of a Prime order coming in 2 days. Predictable is just boring!", "intent": "other"}
+{"customer_query": "Adventure of the pasta ladle I ordered: \"Attempted delivery\" today while I was home all day, no calls. My flight is tomorrow 😑", "intent": "product_issue"}
+{"customer_query": "Hi it's now saying it's being delivered on Monday, but I've paid£6 for next day delivery. Is there any way this can be refunded?", "intent": "refund_issue"}
+{"customer_query": "There ia warranty of 1 year , can u let me know how to connect with their customer care", "intent": "account_issue"}
+{"customer_query": "That's very vague.", "intent": "damaged_product"}
+{"customer_query": "#NORESOLUTIONAMAZON...", "intent": "other"}
+{"customer_query": "I want my product today . If Amazon have claims good service then this is time to prove it.", "intent": "delivery_issue"}
+{"customer_query": "Usps", "intent": "order_not_received"}
+{"customer_query": "how about not shipping the items I chose to skip in my Subscribe & Save? Didn't plan to have 12 more bottles of dish soap on hand.", "intent": "order_cancellation"}
+{"customer_query": "Read the story of how fake sellers make money with fake products #amazon #diwaliloot #amazonindia #cheats #fake", "intent": "account_issue"}
+{"customer_query": "keine Radiosender mehr zur Auswahl?", "intent": "delivery_issue"}
+{"customer_query": "Thanks, I found a way to email under an appropriate topic.", "intent": "other"}
+{"customer_query": "Pero que no es algo de gestionar o no. Que no me lo han dado porque es más grande que el buzón, y que tengo que ir a por el paquete y punto. Que esto es así. Que dejéis de trabajar con ellos.", "intent": "order_not_received"}
+{"customer_query": "Et en plus se faire engueuler par le livreur, ca cumule beaucoup d'agacement...qu'est ce qu'on fait maintenant ?", "intent": "delivery_issue"}
+{"customer_query": "Any TAT that you can give me this time? I already waited for almost 6 months with same replies to my tweets and emails to customer support.", "intent": "payment_issue"}
+{"customer_query": "I ordered two fire sticks got free shipping but thought that mean they would be here Sunday. Can I changed the shipping to prime or try prime for free for 30 days and get it here for Sunday?", "intent": "wrong_product"}
+{"customer_query": "Hi, order number #403-7377624-0138707, was to be delivered on the 9th. However, there has been no update. Please check.", "intent": "order_cancellation"}
+{"customer_query": "I preordered #BookOfMythicality and it came yesterday...only problem is I made a deal with my wife that I’d wait till Christmas to read it 😐", "intent": "order_not_received"}
+{"customer_query": "is 02245430129 number from Amazon helpdesk? Or did some scammer cald? more worried how did that person got my amazon related data?", "intent": "seller_issue"}
+{"customer_query": "お手数おかけしました了解です〜 ありがとうございます。", "intent": "delivery_issue"}
+{"customer_query": "& never got my parcel,shows that delivrd to me, amazon is harassing me since i placed the order", "intent": "delivery_issue"}
+{"customer_query": "Fast alle der ersten Staffel, soweit ich gesehen habe. Aber nicht dauerhaft. Kann jetzt keine nennen, ich gucke nun ein paar Folgen, wenn es auftritt, geb ich Bescheid.", "intent": "product_issue"}
+{"customer_query": "Not sure what the hell I pay for. Absolutely useless.", "intent": "payment_issue"}
+{"customer_query": "Any idea why have made an utter hash of deliveries?", "intent": "delivery_issue"}
+{"customer_query": "the package has been out for delivery for almost the entire day, yet it has failed to reach me .. Wow! #subPrime", "intent": "delivery_issue"}
+{"customer_query": "was this humongous box and excessive amounts of paper absolutely necessary for my tiny air freshener. Don’t you want to support and help planet earth....?! 🌍❤️😒", "intent": "product_issue"}
+{"customer_query": "What security reasons? And does that mean that all these many years it wasn’t secure without aadhar card details?", "intent": "security_issue"}
+{"customer_query": "It was suppose to be here today. It's done a couple times lately. It says it shipped today, but it's suppose to be here today. It won't arrive for a few more days though. It will even say delivered later.", "intent": "order_delivery_delay"}
+{"customer_query": "Ok great thanks, I’ll give that a go 👍🏻", "intent": "order_delivery_delay"}
+{"customer_query": "If they do not send me a prepaid label for that broken mchdse., I will start reporting all the facts tomorrow elsewhere. I wasted my Thanksgiving and so much more when I was cheated by Amazon. I spent the night checking label prices, and will NOT pay.", "intent": "refund_issue"}
+{"customer_query": "why do I have to wait a week for something I ordered when I have prime", "intent": "delivery_issue"}
+{"customer_query": "trying to order a gift on 1 day delivery. Item has 1 day delivery as an option for my billing address. But when I select recipient’s address the 1 day option disappears & earliest delivery is Tuesday?! Recipient is in the same postal area as my billing address...", "intent": "order_delivery_delay"}
+{"customer_query": "I swear amazon can’t do anything on time! I have prime for the reason that what I order is on time!", "intent": "order_not_received"}
+{"customer_query": "Please just ask UPS about why they reshedule so often That's all u have to do.", "intent": "order_cancellation"}
+{"customer_query": "Oye si pago Prime y mi orden decia entrega al dia siguiente y no llega que procede? En serio una pesima promesa de venta", "intent": "order_cancellation"}
+{"customer_query": "Buying a puppy playpen for $56 from bcuz of free shipping,it’s really not free bcuz they force to try prime!😡 now order is $75 ->", "intent": "order_cancellation"}
+{"customer_query": "i porte aucune considération pour ses clients qui se font arnaquer par leurs vendeur achats iphone 6 neuf reçu reconditionné........", "intent": "product_issue"}
+{"customer_query": "So the replacement order I was promised today - I now have an email saying if it hasn't arrived by 10th to get back in touch? 😤", "intent": "order_not_received"}
+{"customer_query": "I have already mailed them thrice since yesterday. Looks like your tweeter handle is useless like your customer care.", "intent": "seller_issue"}
+{"customer_query": "Done.", "intent": "done"}
+{"customer_query": "Black Friday deliveries Part1! Thanks #PS4", "intent": "other"}
+{"customer_query": "Muy descontento con por un pedido que tenía que llegarme el día 5 y por ahora solo he recibido largas", "intent": "product_issue"}
+{"customer_query": "Can one exchange one plus 5 with a one plus 5T", "intent": "order_exchange"}
+{"customer_query": "Aktionsgutschein. „Der Aktionsgutschein wird automatisch bei Ihrer nächsten Bestellung eingelöst, für die der Gutschein anwendbar ist.“", "intent": "offer"}
+{"customer_query": "Com certeza enviarei ❤", "intent": "delivery_confirmation"}
+{"customer_query": "order placed yesterday in good time for next day delivery. Order despatched today at 0830 and DPD saying they will deliver Monday. Your service is getting worse!", "intent": "service_quality"}
+{"customer_query": "What can I do to resolve this issue?", "intent": "issue_resolution"}
+{"customer_query": "servizio clienti semplicemente spettacolare 👏🏻👏🏻👏🏻 #numero1", "intent": "order_cancellation"}
+{"customer_query": "I am so furious with right now I can't see straight. Your apologies mean nothing to me if you can't actually correct the error.", "intent": "order_not_received"}
+{"customer_query": "I know you are missing them and I want to know why as the whole idea of prime is for next day! The order I have placed tonight is expected to be delivered on Monday so definitely not next day! Last weeks were 4 days too it’s not good!", "intent": "delivery_issue"}
+{"customer_query": "Shoutout to for excellent customer service!", "intent": "payment_issue"}
+{"customer_query": "Yes, I reveived an email about account recovery, tell me that my email is changed to another email that not is mine. can you help me?", "intent": "account_issue"}
+{"customer_query": "Did i ask to provide any information about my account, u guys are useless... On ur amazon website the said product is reflecting..", "intent": "account_issue"}
+{"customer_query": "que mon dossier devait être examiné, puis que je serais recontactée sous un délais de 48h. Je n'ai jamais été recontactée", "intent": "account_issue"}
+{"customer_query": "Still no call back...", "intent": "delivery_issue"}
+{"customer_query": "Thanks for prompt response. You can call me now also until midnight (2 hrs from now) if you want.", "intent": "other"}
+{"customer_query": "My package from isn't here. My feelings are actually hurt 😭", "intent": "delivery_issue"}
+{"customer_query": "そういやAmazon Primeでガルパンも見られた気がしたな。 あれも実は見てないので、せっかくだから見るか！", "intent": "order_not_received"}
+{"customer_query": "not available at my nearby distro center.. Says it comes today. Kinda horrible delivery times.", "intent": "delivery_issue"}
+{"customer_query": "Awesome. An delivery guy just backed into my parked car/:", "intent": "other"}
+{"customer_query": "I have sent the information.", "intent": "order_cancellation"}
+{"customer_query": "I have placed the order and not received it. Order received by Amazon warehouse in the city on Wednesday on 15th Nov 2017 and after speaking to escalation team also there was no help from the team. Amazon has hopeless courier services. Order # 405-0164808-5061168", "intent": "product_issue"}
+{"customer_query": "missed their delivery date and I used Prime.. I dont want the stuff anymore", "intent": "delivery_issue"}
+{"customer_query": "un producto de Amazon basics 6 días en entregármelo? Completamente descontento. Se paga cuota de prime para algo...", "intent": "product_issue"}
+{"customer_query": "Ou le colis 📦 alors que je viens seulement de passer la commande 😂", "intent": "delivery_issue"}
+{"customer_query": "I was sent a completely different item than what I ordered. Who do I contact?", "intent": "product_issue"}
+{"customer_query": "Siete davvero fantastici. ps: vi ricordo la mia idea di creare delle copertine stampabili (con tanto di dorso) per chi compra gli ebook ;)", "intent": "product_issue"}
+{"customer_query": "It was delivered via AMZL US (the order was from my account).", "intent": "delivery_issue"}
+{"customer_query": "Lo de es de locos, pido un regalo ayer por la tarde y me llega a las 10 de la mañana de hoy", "intent": "order_not_received"}
+{"customer_query": "Why do you keep the customers waiting so long ? And what sort of form is that u want me to fill ?", "intent": "payment_issue"}
+{"customer_query": "Amazonで楽譜注文したらお届け先の名前のところが勝手に『日本』になってて届かなかったんだけどどうすればいいの？不在票もないしどこに連絡するべき？とりあえず誰が勝手に名前変えたの？？？", "intent": "product_issue"}
+{"customer_query": "When your result will out?", "intent": "other"}
+{"customer_query": "Tenho lido mais livros relacionados a política, mas tbm curto suspense policial", "intent": "order_cancellation"}
+{"customer_query": "Ordered whiskey and got gin...thanks", "intent": "order_not_received"}
+{"customer_query": "disappointed to receive my parcel like this, especially with Christmas presents in which have been damaged", "intent": "damaged_product"}
+{"customer_query": "2x now I tried to buy a digital code on your app and 2x it gave me the wrong one. Now you & Microsoft r giving me the run around", "intent": "seller_issue"}
+{"customer_query": ", my son put in an order for digital content about a half hour ago (or more). Still says \"pending\". Are you having an issue?", "intent": "product_issue"}
+{"customer_query": "なんかAmazonで昼くらいに頼んだのにお支払い番号まだきてないんだが", "intent": "order_not_received"}
+{"customer_query": "I don’t understand Prime. When I order something on Thursday for 2 day shipping, then at the latest it should get here by Monday.", "intent": "order_cancellation"}
+{"customer_query": "It says \"No tracking details\".", "intent": "order_not_received"}
+{"customer_query": "Vous n'y êtes certainement pour rien, encore de la faute de vos transporteurs", "intent": "seller_issue"}
+{"customer_query": "Is there any idea when you guys will have need for Speed payback back in stock", "intent": "product_issue"}
+{"customer_query": ".com", "intent": "order_not_received"}
+{"customer_query": "Yes my bank statements", "intent": "account_issue"}
+{"customer_query": "pues me dice que esta en Alcalá de Henares desde el lunes..... no lo tiendo entonces para que soy Prime la verdad!", "intent": "order_cancellation"}
+{"customer_query": "Already shared 2 times.", "intent": "other"}
+{"customer_query": "It does not say. It won't allow me to track the shipment either", "intent": "delivery_issue"}
+{"customer_query": "Impress with fraud done by ,Amazon india site show price higher then MRP,please look at below screen shots.I ordered from amazon india only. Amazon price(MRP):-145 Real price:-135", "intent": "order_cancellation"}
+{"customer_query": "I swear Amazon delivery drivers just love playing knock down ginger - if you aint answered that door within 2 seconds they are gone 🚐💨💨💨", "intent": "delivery_issue"}
+{"customer_query": "Request to pls look into the same as account team is not available on phone", "intent": "account_issue"}
+{"customer_query": "what about its status!!!", "intent": "other"}
+{"customer_query": "at its worst again... You people can never improve.. lairs..", "intent": "product_issue"}
+{"customer_query": "It just arrived :D. Thanks for the replies anyhow.", "intent": "order_not_received"}
+{"customer_query": "My promo codes were not added and I’m being charged extra. This needs to be fixed ASAP please", "intent": "order_cancellation"}
+{"customer_query": "No he podido, lo siento. No es un problema de un solo transportista. Me dejan los paquetes en otro edificio de mi empresa a 400m GCS", "intent": "delivery_issue"}
+{"customer_query": "Hey how about you stop lying about delivery status? You did not hand my package to any live person. i saw it on my neighbors doorstep. I just didn't know it was mine until it was stolen. THANKS!", "intent": "damaged_product"}
+{"customer_query": "item picked up already for return, not yet reflecting in my orders. Agent said he has updated in system. Help", "intent": "refund_issue"}
+{"customer_query": "O da Lauren 😍 pois Gilmore Girls é meu xodó", "intent": "other"}
+{"customer_query": "Muito obrigada, Amazon. Tenham uma boa noite de serviço!!", "intent": "other"}
+{"customer_query": "going to have to stop using u. Fed up of my deliveries going to someone else’s house. Seems your courier can’t read road signs", "intent": "delivery_issue"}
+{"customer_query": "Meu Origem chega HOJE! Eu te amo 😃 PS: tava no susto achando q só viria na segunda", "intent": "delivery_issue"}
+{"customer_query": "from Italy, I've been waiting for a refund since nov 16th. Looks like there was a trouble in your procedure, no way your customer service can solve this for me. Unfair!", "intent": "refund_issue"}
+{"customer_query": "知らないうちにamazon プライム会員になっている なんで", "intent": "account_issue"}
+{"customer_query": "danke für die Antwort :)", "intent": "seller_issue"}
+{"customer_query": "I’ve now got a very upset child who can’t get his stuff tomorrow as you promise as prime members poor deal", "intent": "delivery_issue"}
+{"customer_query": "Muchas gracias, ya hemos enviado el email, eapero una solución.", "intent": "order_cancellation"}
+{"customer_query": "I have a collection of the blue cold packs from various PrimeNow orders. Can we send them back? #reuse #reduce", "intent": "product_issue"}
+{"customer_query": "I was waiting for it forever,finally ty #AmazonIndia.But u can by through only invitation is d idea I don't like #AmazonEcho.I hope 2 get it", "intent": "order_cancellation"}
+{"customer_query": "Je l'ai signalé au service client de twitch ici Dois-je le signaler également au votre ?", "intent": "account_issue"}
+{"customer_query": "Starting to lose faith in Amazon Prime.3 orders on the spin have taken 2 days.What am I forking out £8pcm for exactly?#poorshow", "intent": "payment_issue"}
+{"customer_query": "UPS is delayed as well. Not able to copy link for the 3 different deliveries.", "intent": "delivery_issue"}
+{"customer_query": "how do I lock the screen on a Fire 8 while my kids are watching a movie to stop them pausing it etc??", "intent": "product_issue"}
+{"customer_query": "My order was originally scheduled to be overnighted for launch day. After it didn't arrive, the best you could do was two day shipping😂awful", "intent": "order_delivery_issue"}
+{"customer_query": "j’ai appelé UPS ce matin, ils m’ont dit que la livraison était prévue pour demain", "intent": "account_login_issue"}
+{"customer_query": "Hello , impossible de me connecter à mon compte après plusieurs changements de mot de passe. Et mon colis, censé être livré hier n'est jamais arrivé malgré un mail de confirmation. Need help please!", "intent": "order_delivery_issue"}
+{"customer_query": "Quase todos! Só falta esse e um outro que esqueci o nome. Ela é fantástica. O último que li foi “Americanah”. Achei maravilhoso!", "intent": "book_issue"}
+{"customer_query": "Que la commande serait envoyée dans un carton et non une enveloppe craft...", "intent": "order_delivery_issue"}
+{"customer_query": "Android.", "intent": "order_cancellation"}
+{"customer_query": "prime? Awful. terrible experience. Let me down. Useless.", "intent": "seller_issue"}
+{"customer_query": "Alors maintenant sur il faut être Prime pour acheter des jeux XboxOne ou PS4 (c'est l'un ou l'autre). Exemple : Fifa 18 - prime pour Xbox One (pas pour les autres) , Battlefront2 - prime pour PS4 (pas pour les autres). C'est SCANDALEUX", "intent": "product_issue"}
+{"customer_query": "placed my preorder for wwe 2k18 cena edition in july and it's supposed to be dispatched for 13th, but it says arriving on 16th.", "intent": "delivery_issue"}
+{"customer_query": "This was on And I sent a 31th mail to get my money back. I guess I will have to explain my situation again again", "intent": "refund_issue"}
+{"customer_query": "This is what I recieved", "intent": "order_cancellation"}
+{"customer_query": "Le 26 j'ai reçu un mail disant qu'on transmettait mon cas à un supérieur pour pouvoir annuler la commande et je n'ai toujours aucune raison pourtant je continue de recevoir des mails indiquant que les éléments de la commande sont expédiés au fur et à mesure", "intent": "order_not_received"}
+{"customer_query": "Timing out across the board today, any idea on when things will be back up?", "intent": "delivery_issue"}
+{"customer_query": "I moved from to for all my needs & looks like I made a wrong decision. Similar thing happened with a friend too", "intent": "account_issue"}
+{"customer_query": ". left my #Thanksgiving order on the front porch and didn’t ring or knock like they’re supposed to for an “attended” delivery. Almost ruined Thanksgiving, you lazy assholes. Ring the doorbell! It’s literally 3 feet from where you stacked my order.", "intent": "wrong_product"}
+{"customer_query": ". What's the use of providing HDFC offer, if the payment via my HDFC card keeps failing? Tried 4 times till now, ORDER # 406-8984446-2310766", "intent": "payment_issue"}
+{"customer_query": "Désolé, mais non je ne relance plus personne. Après 20h je consulte ma précommande de l'édition limitée et je l'annule. Merci.", "intent": "account_issue"}
+{"customer_query": "Oui, on me répond la même chose que la première fois, une enquête va s'ouvrir. En toute franchise, si je dois encore avoir ce problème, je ne vois plus l'intérêt de passer par Amazon et encore plus de payer un abonnement \"Prime\".", "intent": "account_issue"}
+{"customer_query": "Will do, thank you!", "intent": "other"}
+{"customer_query": "ur team have not solved my problem till now i am going to delete my Amazon account .....please let me know how to send my amazon pay balance to bank so i can delete my amazon account", "intent": "account_issue"}
+{"customer_query": "#AMAZON why do u hv a fraud dept that doesn’t kno when there is no fraud?", "intent": "order_not_received"}
+{"customer_query": "CkalLà'Llznskslzkzkcbzn 🤡", "intent": "other"}
+{"customer_query": "help", "intent": "other"}
+{"customer_query": "screams every time the commercial comes on so our dot won’t listen to the TV #Hilarious", "intent": "other"}
+{"customer_query": "yes I'm tweeting u about my costume I ordered this via amazon prime if i don't get my wig by 9:15 am TODAY I will be pissed", "intent": "product_issue"}
+{"customer_query": "Bhaio Amazon se bhul kar v mobile tablet mat kharido kyuki inka polcy h no return no refund no exchange", "intent": "order_cancellation"}
+{"customer_query": "Très déçu du LaMetric Time commandé sur Amazon durant le #BlackFriday Il ne démarre pas... Retour chez en espérant un échange 😥", "intent": "product_issue"}
+{"customer_query": "アマゾンパントリーが届いた。 こんなん、、いろいろ(笑)", "intent": "delivery_issue"}
+{"customer_query": "Oui c’est le: C10044824983", "intent": "product_issue"}
+{"customer_query": "Am I supposed to use the chat part?", "intent": "other"}
+{"customer_query": "I sent yu guys a dm L of the thingy.", "intent": "direct_message"}
+{"customer_query": "ありがとうございます。確認しましたが交換不可能な商品のようで、項目？が返金手続きしかありませんでした。残念ですが、我慢します………。", "intent": "product_return"}
+{"customer_query": "Oui, j'ai envoyé un mail ce matin, mais aucune réponse.", "intent": "daily_deal"}
+{"customer_query": "I would like to take advantage of this Daily Deal, but it says it's not currently available for purchase?", "intent": "product_availability"}
+{"customer_query": "please reply me in direct message because very important", "intent": "direct_message"}
+{"customer_query": "You know, this happens every time I order. It advertises free 2 day shipping then takes at least 3 days to get here 😒", "intent": "order_not_received"}
+{"customer_query": "I think it's a 7th generation kindle? Bit hard to tell as many models look the same!", "intent": "wrong_product"}
+{"customer_query": "what bad service really disappointed", "intent": "seller_issue"}
+{"customer_query": "As I purchased a product from Amazon on 6th of Oct. While purchasing they said item will be delivered with in 3-5 business days.", "intent": "delivery_issue"}
+{"customer_query": "Hey normales HTML statt Text auf einem Bild wäre super gewesen. 😬", "intent": "product_issue"}
+{"customer_query": "could you help me with a return ?", "intent": "return_issue"}
+{"customer_query": "Hi! I am having trouble signing into my account. I tried changing the password after I repeatedly got a message that it was incorrect, but even after the change the same thing happened. Can you please help?", "intent": "account_issue"}
+{"customer_query": "this is how you send fake products?", "intent": "fake_product"}
+{"customer_query": "There wasn't a gift message.It says paid by amazon but isn't recorded on amazon account..it's a random item that wouldn't be sent as a gift.", "intent": "wrong_product"}
+{"customer_query": "sons birthday tomorrow. Gift absent. Hardly the 1 day delivery I'm paying for or was advertised. 2/2", "intent": "delivery_issue"}
+{"customer_query": "Pl share registerd office address of amazone e commerce for further proceedings", "intent": "account_issue"}
+{"customer_query": "It was thru the app but I’m guessing the United Kingdom one!", "intent": "account_issue"}
+{"customer_query": "Y luego encima tienes que correr tú con los gastos y las molestias de que te hayan estafado. Voy a cancelar mi suscripción. A fregar.", "intent": "seller_issue"}
+{"customer_query": ". Just sent. Thanks.", "intent": "refund_issue"}
+{"customer_query": "Please can the money be refunded asap to my account? have already cancelled it on w'site. (3/3)", "intent": "refund_issue"}
+{"customer_query": "Perfect thank you!", "intent": "order_not_received"}
+{"customer_query": "Got my #SNESClassic thru Prime Now this morn! #nostalgia", "intent": "order_cancellation"}
+{"customer_query": "Hey look, Amazon screwed up my package AGAIN. To think I'm paying for Amazon Prime too. I hope this doesn't become a running trend.", "intent": "seller_issue"}
+{"customer_query": "I will not buy any product from from now on & I will suggest d same to ppl around me. I was a regular shopper at Amazon before what happened today. Nor will I buy a product .I may b a small customer for u but even a small customer can bring a big difference", "intent": "account_issue"}
+{"customer_query": "my account says my same day delivery order was delivered yesterday but I never received my package.", "intent": "delivery_issue"}
+{"customer_query": "one thing to amazon dnt think we Indians dnt have brain t", "intent": "other"}
+{"customer_query": "You may as well give her the products, if you're so keen on reviews 😂😂😂", "intent": "other"}
+{"customer_query": "Totally agreed. But why manipulate the MRP of the product. Atleast you can take actions against them from manipulating the MRP", "intent": "other"}
+{"customer_query": "It's just a personal purchase. It's not a huge deal, it's just stopping me from getting other things done.", "intent": "other"}
+{"customer_query": "今すぐチェックしても読めないんですけど", "intent": "delivery_issue"}
+{"customer_query": "Sharing my order details here.", "intent": "order_not_received"}
+{"customer_query": "I have replied to the mail I received. Please understand that I don't want mails, I just want my product..", "intent": "account_issue"}
+{"customer_query": "Best deal in the interwebs. I’ve had it for several months, saves me a ton of dough from buying albums. Also, I listen to hundreds I never woulda bought anyway.", "intent": "best_deal"}
+{"customer_query": "received email yesterday that my package would arrive today, now the app says 23/11 ????", "intent": "delivery_issue"}
+{"customer_query": "whats the time frame on a refund?", "intent": "refund_issue"}
+{"customer_query": "So after pre ordering it 8 months ago I have to wait to see IF it comes back in stock", "intent": "order_not_received"}
+{"customer_query": "Es un Amazon Choice de KATIVA vendido por AIRSH HAIR. Además en el paquete venía un bolso que era un regalo sin envoltorio ni un plástico y podría haberse manchado facilmente", "intent": "damaged_product"}
+{"customer_query": "How much more time should I wait...", "intent": "other"}
+{"customer_query": "i Ordered something, 6 days ago, and the order is still has not been placed, it said 5-10 days To Norway", "intent": "order_cancellation"}
+{"customer_query": "Horrible response form your team still unable to solve the Issue....can someone call me on +91 9096377143...", "intent": "seller_issue"}
+{"customer_query": "if there is a more inept business than amazon, I would be very surprised", "intent": "order_not_received"}
+{"customer_query": "didn't receive cashback of Rs1500 for 5 purchase on amazon.despite providing my bank statement got no reply.order id-405-4850874-0410733 #FakePromotions #BuycottAmazonIndia", "intent": "order_cancellation"}
+{"customer_query": "Where is the app for Fire TV stick?!? --Asks the guy stuck in a hospital for several weeks...", "intent": "delivery_issue"}
+{"customer_query": "Still hate that uses for deliveries. Once again my mail is here, but my package isn't.", "intent": "payment_issue"}
+{"customer_query": "Only 2 options there Standard delivery 720 rs Expedited delivery 720 rs If u are customer will you buy with 720 rs charges?", "intent": "product_issue"}
+{"customer_query": "2 days late on paying extra for 1 day delivery, still the product is nowhere to be seen HORRIBLE service & experience", "intent": "delivery_issue"}
+{"customer_query": "I'm not giving any order details I'm just informing you that I can't really respond back to an email saying it'll take 2-3 business days to resolve my issue that you have been promising to resolve within 24 hours from the past 16 days now!", "intent": "account_issue"}
+{"customer_query": "Bad your delivery van was parked badly cars had 2 squeeze through almost hitting my car. If it has been hit it u will hear about it.", "intent": "delivery_issue"}
+{"customer_query": "発売日にちゃんと届くか心配になっているだけです。発売日は16日なのに発送予定日23日となってたら心配にもなってきますよね", "intent": "delivery_issue"}
+{"customer_query": "You guys emailed me to become an Amazon Influencer, yet I get this popup whenever I try to sign up.. Any ideas?", "intent": "other"}
+{"customer_query": "Your live chat staff are incredibly ignorant/unhelpful.", "intent": "customer_support"}
+{"customer_query": "Yes..I already share the complete detail of one of your executive on 7th November, Abhishek He told me that my issue will be consider on high priority", "intent": "order_cancellation"}
+{"customer_query": "The link takes me to Amazon India! I have an American account", "intent": "account_issue"}
+{"customer_query": "Canceling my order right now as switched my offer from 15% cashback(max ₹300) to ₹75 cashback without any prior notice. This is how amazon bluff their customers. Disgusting!", "intent": "seller_issue"}
+{"customer_query": "I am eligible to win 500 as Amazon Pay Balance...", "intent": "order_cancellation"}
+{"customer_query": "I'm having the same issue with my Amazon Echo Show and Arlo", "intent": "delivery_issue"}
+{"customer_query": "Hi! I haven’t. That would cause me to have to redownload all of my music again, right?", "intent": "order_cancellation"}
+{"customer_query": "Will you reply my query on order no 407-3578652-0423541 ? Lately I am experiencing issues with your service.", "intent": "account_issue"}
+{"customer_query": "Suggesting people don't buy mobiles from Amazon specially Mi products. They are delivering refurbished devices. Be aware of this. I am one of the victim lost 12K because of this. Device dead and service center not claimed the warranty. Says already opened", "intent": "seller_issue"}
+{"customer_query": "ありがとうございます。 発送元が中国だったのでもう少し待ちます。", "intent": "product_issue"}
+{"customer_query": "Is there something wrong with the servers today? My newly purchased songs won't download or stream. I'm not having an issue with any other services. If you could look into it or help me somehow it would be appreciated. Thank you.", "intent": "server_issue"}
+{"customer_query": "Thank you! The UK app", "intent": "other"}
+{"customer_query": "I have used the same link amazon .. pls don't do this now .. check your system", "intent": "other"}
+{"customer_query": "Hi does the Fire HD range support both Minecraft and Roblox on the Google Play Store or Amazon Apps? Thanks", "intent": "game_unavailability"}
+{"customer_query": "I've never ordered anything from you people can someone explain how this could've happened?", "intent": "order_not_received"}
+{"customer_query": "Unboxing Kindle 😍", "intent": "order_not_received"}
+{"customer_query": "Thank you team issues is sorted now ✌🏻", "intent": "order_cancellation"}
+{"customer_query": "Hey I bought Blade Runner on blu ray 2 months ago and it just got delayed again. Not even an update on when it should come now. Am I actually ever gonna get it?", "intent": "delivery_issue"}
+{"customer_query": "Can you explain to me how my #prime order can go from out for delivery on 9th to expected \"sometime\" by 12th? #useless", "intent": "order_cancellation"}
+{"customer_query": "Can anyone explain to me why I can’t remove smart devices from Alexa? Simply the worst customer service ever.", "intent": "product_issue"}
+{"customer_query": "i joined prime by accident and it's charged my bank £79 immediately. i've now cancelled membership but when can i expect a refund?", "intent": "order_cancellation"}
+{"customer_query": "is there a way if you could tell me if I qualify for a trial for amazon prime? I remember signing up for it before prime video was launched in Canada I think? I’m just not sure I wanna make that $100 dive for the 12 months.", "intent": "account_issue"}
+{"customer_query": "Déjà fait , la situation n'a pas avancée mis à part le fait d'attendre", "intent": "other"}
+{"customer_query": "I am attempting to place an order and in the checkout I see \"fresh discount\" but I'm not placing a fresh order. What is it for?", "intent": "order_not_received"}
+{"customer_query": "this is not a good place to leave a package! Open, exposed and vulnerable to theft. Left work early to get it as knew it wasn't going to last long. Set up trusted neighbours as well. Damages trust in service.", "intent": "damaged_product"}
+{"customer_query": "what the hell is going on. I was expecting to get my money in Amazon pay wallet by 23/10/2017. But still I am waiting.", "intent": "order_cancellation"}
+{"customer_query": "i love so much you guys", "intent": "love_saying"}
+{"customer_query": "box came cut open and retaped from YOUR logistics company. Called AMZL and the sent me right back to CS who won't help", "intent": "damaged_product"}
+{"customer_query": "It says Nov 28 but now they’re estimating to be by Dec 15", "intent": "delivery_issue"}
+{"customer_query": "Another email finally they said they can't help at all this is not a solution", "intent": "seller_issue"}
+{"customer_query": "なんかアマゾンアプリストアでコインチャージ出来ねーんだけどなんだこれ", "intent": "order_cancellation"}
+{"customer_query": "何も買ってねえのに家にAmazonからの不在入ってた", "intent": "order_not_received"}
+{"customer_query": "Can someone answer me Please: Do we have to buy a cheetos crunchy chips on EMI _/\\_ ?? 🤣😛🤪😜 How people of India can trust?? #AMAZON !!", "intent": "cheetos_cheat"}
+{"customer_query": "every time I try to add something to my wish list it goes straight to my basket. This is awful. What's wrong?", "intent": "wish_list_behavior"}
+{"customer_query": "I’m never ordering from Amazon again. Their delivery drivers for their courier service are incompetent.", "intent": "delivery_driver_quality"}
+{"customer_query": "I've received a message on one of my orders that says my item could not be delivered requires action and to contact you any ideas?", "intent": "delivery_issue"}
+{"customer_query": "My #PS4 has been “lost in transit” so you’ve forced a refund on me and even with voucher I’m still out of pocket to buy one again. So angry so disappointed and a very upset son. No thanks to", "intent": "refund_issue"}
+{"customer_query": "I'm going out of state from today evening & I don't have any good neighbor to receive my package so I urge you to deliver my (1/2)", "intent": "wrong_product"}
+{"customer_query": "Come on !!! Do better. Your photo app is so clugie I can’t believe it. Combining photos never works...", "intent": "photo_app_issue"}
+{"customer_query": "Now you have all the details to trace the issue. What else you needed from my side?? Kindly do the need at earliest as I am suffering from last 2 months.", "intent": "account_issue"}
+{"customer_query": "Amazonさん、コンビニ支払いできないのはなぜ？？仕方ないから代引にしたけど… たまにそういうことあるんだよねー(´･ω･`)", "intent": "payment_issue"}
+{"customer_query": "Hi. Can an iPhone case be returned for a refund? I’ve had an Otterbox Symmetry case stain from my jean pocket after one week.", "intent": "product_issue"}
+{"customer_query": "Updated your app just now and now it only opens in portrait mode on iPad. Turn iPad landscape position and app doesn’t switch. Before you ask, my lock rotation isn’t on either, it’s just the Amazon app.", "intent": "seller_issue"}
+{"customer_query": "I hv shared the details ...i want my money back ..i dnt expect any delivery frm.amazon now ..#AmazonGreatIndianFestival is fraud in oneword", "intent": "refund_issue"}
+{"customer_query": "india is a huge market, but amazingly poor customer support wont help at all.. one of the worst.", "intent": "other"}
+{"customer_query": "自分が観たかった作品が沢山入って嬉しいです！", "intent": "order_received"}
+{"customer_query": "Detail s shared", "intent": "order_cancellation"}
+{"customer_query": ".. I ordered HP laptop but you people delivered some screens. I am your one of the prime customers. And your team is not helping me. Expecting some response from you..", "intent": "wrong_product"}
+{"customer_query": "コンビニにAmazonからの荷物が届いているが、受取方法のメールが届かない不具合", "intent": "delivery_issue"}
+{"customer_query": "Me gusta mucho como traduce sus subtitulos en American Gods y El exorcista, lastima que esten bien mal sincronizados.", "intent": "translation_issue"}
+{"customer_query": "ぬわああああAmazonさん支払い方法難しいよおおおおおお 初Amazon……マイク買えたぞー！ 早く支払うべきやったんやけどｶﾀ:(ˊ◦ω◦ˋ):ｶﾀ 早く届かないかなぁ", "intent": "payment_issue"}
+{"customer_query": "Horrible Customer Service Experience. Thanks Tatiana B and cohorts from the Caribbean Islands. Geez....First Time ever.", "intent": "seller_issue"}
+{"customer_query": "But have u canceled the series or we can wait for the updates", "intent": "order_not_received"}
+{"customer_query": "Why would you need to wait 3-7 business days? I've already been dealing with your incompetent customer service staff for 3-4 days so I'd suggest this time was more than sufficient to get your act together...", "intent": "account_issue"}
+{"customer_query": "Heres my order number :) Order # 305-2740745-7663556 thanks", "intent": "order_cancellation"}
+{"customer_query": "iOS 10.3.3 & iPad mini, after typing search term and searching or dismissing kbd, can't move text cursor or clear search term with X button", "intent": "product_issue"}
+{"customer_query": "わざわざお返事ありがとうございます！期待しています。", "intent": "order_not_received"}
+{"customer_query": "But I can sign into my account. There was just the addition of the captcha this morning. It wasn’t there yesterday. Is my account safe?", "intent": "account_issue"}
+{"customer_query": "A ver si hay suerte y encuentro una Switch a 10 euretes <3", "intent": "other"}
+{"customer_query": "音楽も聴かせていただきます。写真ストレージとか止められない罠じゃないですかw もう一年分まとめ払いしたんで、どっぷり楽しませていただきます。24未見なので、じっくり観させていただきます。 ありがとうございます。", "intent": "product_issue"}
+{"customer_query": "que terrível? como um dino dessa tamanho consegue se sustentar só com essas frutinhas?", "intent": "delivery_issue"}
+{"customer_query": ".co.uk for me - was working fine up until around 8.50am and then went wrong. Have not been able to do anything for last 2 hours!", "intent": "order_not_received"}
+{"customer_query": "I'll DM you the details", "intent": "other"}
+{"customer_query": "Hey I clicked on the link. When I get to call or email customer service or click on contract customer service it goes back to log in. Everything I click on goes back to login in or create account.", "intent": "account_issue"}
+{"customer_query": "Despite commitment from Amazon rep to update us the status on 13th this month, no news yet. Order still not received.", "intent": "product_issue"}
