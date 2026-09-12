@@ -12,3 +12,5 @@ jq
 torch
 langchain-ollama
 huggingface_hub
+fastapi
+uvicorn
