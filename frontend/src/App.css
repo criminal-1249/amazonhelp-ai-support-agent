@@ -517,14 +517,15 @@
 
 /* Customer message bubble */
 .customer .message-bubble {
-  background-color: var(--amazon-slate);
-  color: #ffffff;
+  background: linear-gradient(135deg, #ff9900 0%, #e8890a 100%);
+  color: #111827;
   padding: 0.85rem 1.15rem;
   border-radius: 18px 18px 4px 18px;
-  box-shadow: var(--shadow-sm);
+  box-shadow: 0 2px 8px rgba(255, 153, 0, 0.35);
   font-size: 0.94rem;
   line-height: 1.5;
   word-break: break-word;
+  font-weight: 500;
 }
 
 /* AI Assistant message bubble */
@@ -558,7 +559,7 @@
 }
 
 .customer .author-label {
-  color: var(--amazon-slate);
+  color: var(--amazon-orange);
 }
 
 .assistant .author-label {
@@ -902,7 +903,7 @@
 }
 
 .chat-textarea:disabled {
-  color: #64748b;
+  color: #94a3b8;
   cursor: not-allowed;
 }
 
