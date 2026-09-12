@@ -1,10 +1,10 @@
 /**
  * Dedicated API Service for Amazon Help AI Support Agent
- * Connects to FastAPI backend (/chat and /)
+ * Connects to FastAPI backend through Vercel proxy
  */
 
 const API_BASE_URL = (
-  import.meta.env.VITE_API_URL || "http://54.206.87.123"
+  import.meta.env.VITE_API_URL || "/api"
 ).replace(/\/+$/, "");
 
 /**
