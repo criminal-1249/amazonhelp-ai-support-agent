@@ -11,3 +11,4 @@ faiss-cpu
 jq
 torch
 langchain-ollama
+huggingface_hub
